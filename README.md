@@ -3,13 +3,13 @@
 Menganalisis sentimen publik di Twitter terkait topik **Kpop**.
 Dataset diperoleh melalui **Tweet Harvest**, kemudian diproses dan dianalisis menggunakan Python di **Google Colab**.
 
-## 📌 Fitur Analisis
+## Fitur Analisis
 
-* ✅ Scraping tweet dengan **Tweet Harvest** (≥1000 tweet)
-* ✅ Cleaning text (hapus URL, mention, perluas singkatan, tanda baca tetap dipertahankan)
-* ✅ Analisis kata & hashtag populer (Counter + Wordcloud)
-* ✅ Analisis sentimen menggunakan **TextBlob** → label **positif, netral, negatif**
-* ✅ Visualisasi:
+* Scraping tweet dengan **Tweet Harvest** (≥1000 tweet)
+* Cleaning text (hapus URL, mention, perluas singkatan, tanda baca tetap dipertahankan)
+* Analisis kata & hashtag populer (Counter + Wordcloud)
+* Analisis sentimen menggunakan **TextBlob** → label **positif, netral, negatif**
+* Visualisasi:
   * Wordcloud umum & per sentimen
   * Distribusi sentimen (pie chart)
   * Sentiment timeline (tren harian)
@@ -17,11 +17,11 @@ Dataset diperoleh melalui **Tweet Harvest**, kemudian diproses dan dianalisis me
   * Top influencer (akun paling banyak like & retweet)
   * Emoji analysis
   * Co-hashtag analysis
-* ✅ Output akhir berupa **CSV dengan kolom sentimen** + **laporan analisis**
+* Output akhir berupa **CSV dengan kolom sentimen** + **laporan analisis**
 
 ---
 
-## 🛠 Tools & Library
+## Tools & Library
 
 * **Google Colab**
 * **Python Libraries**:
@@ -34,7 +34,7 @@ Dataset diperoleh melalui **Tweet Harvest**, kemudian diproses dan dianalisis me
 
 ---
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 
 ```bash
 ├── kpop_tweets.csv                 # dataset hasil Tweet Harvest
@@ -46,7 +46,7 @@ Dataset diperoleh melalui **Tweet Harvest**, kemudian diproses dan dianalisis me
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. Upload file hasil scraping Tweet Harvest ke Google Colab.
 2. Jalankan notebook (`Kpop_Analysis_Sentiment.ipynb`).
@@ -55,7 +55,7 @@ Dataset diperoleh melalui **Tweet Harvest**, kemudian diproses dan dianalisis me
 
 ---
 
-## 📊 Hasil Analisis (Ringkasan)
+## Hasil Analisis (Ringkasan)
 
 * **Distribusi Sentimen:**
   * Positif → ±52%
