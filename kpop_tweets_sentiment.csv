@@ -1,0 +1,1201 @@
+id,date,username,text,like_count,retweet_count,cleaned,sentiment,sentiment_label
+1,2023-02-19,neverland,I love BTS so much! KPOP forever 💜,890,131,i love bts so much  kpop forever,0.35,positif
+2,2023-07-05,engene,"Enhypen growing so fast, proud! #ENGENE",83,282,enhypen growing so fast  proud   #engene,0.5,positif
+3,2023-11-03,buddyfan,BTS x BLACKPINK collab dream? 😱,269,36,bts x blackpink collab dream,0.0,netral
+4,2023-01-12,armyblink,TXT are the future of KPOP 💙,361,304,txt are the future of kpop,0.0,netral
+5,2023-04-09,shawol,BTS paved the way #Army,938,105,bts paved the way  #army,0.0,netral
+6,2023-11-14,buddyfan,LOONA legends #Orbit,609,301,loona legends  #orbit,0.0,netral
+7,2023-10-13,nctzenlife,SHINee forever kings #Shawol,479,318,shinee forever kings  #shawol,0.0,netral
+8,2023-06-21,armyforever,I love BTS so much! KPOP forever 💜,813,442,i love bts so much  kpop forever,0.35,positif
+9,2023-01-25,armyblink,BTS x BLACKPINK collab dream? 😱,800,43,bts x blackpink collab dream,0.0,netral
+10,2023-03-26,engene,BTS x BLACKPINK collab dream? 😱,155,118,bts x blackpink collab dream,0.0,netral
+11,2023-07-03,nctzenlife,Twice performance is so powerful #ONCE,273,242,twice performance is so powerful  #once,0.3,positif
+12,2023-01-01,oncefan,BLACKPINK just dropped a new MV 🔥 #KPOP,686,357,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+13,2023-07-05,armylover,EXO still kings of KPOP 🔥,574,213,exo still kings of kpop,0.0,netral
+14,2023-11-05,oncefan,BIGBANG changed KPOP industry #VIP,362,390,bigbang changed kpop industry  #vip,0.0,netral
+15,2023-08-28,moaarmy,"Enhypen growing so fast, proud! #ENGENE",836,127,enhypen growing so fast  proud   #engene,0.5,positif
+16,2023-10-24,armylover,Stray Kids are dominating the stage! #STAY,130,263,stray kids are dominating the stage   #stay,0.0,netral
+17,2023-06-14,blinkqueen,"Enhypen growing so fast, proud! #ENGENE",668,408,enhypen growing so fast  proud   #engene,0.5,positif
+18,2023-01-09,moaarmy,"Enhypen growing so fast, proud! #ENGENE",901,483,enhypen growing so fast  proud   #engene,0.5,positif
+19,2023-05-15,oncefan,EXO still kings of KPOP 🔥,668,36,exo still kings of kpop,0.0,netral
+20,2023-01-08,shawol,Idle rising so strong #Neverland,728,440,idle rising so strong  #neverland,0.43333333333333335,positif
+21,2023-08-01,shawol,BLACKPINK in your area! 💖,738,166,blackpink in your area,0.0,netral
+22,2023-07-21,caratdiamond,EXO still kings of KPOP 🔥,520,338,exo still kings of kpop,0.0,netral
+23,2023-12-21,shawol,"Enhypen growing so fast, proud! #ENGENE",938,297,enhypen growing so fast  proud   #engene,0.5,positif
+24,2023-09-20,armylover,BTS paved the way #Army,107,438,bts paved the way  #army,0.0,netral
+25,2023-12-09,engene,LOONA legends #Orbit,152,208,loona legends  #orbit,0.0,netral
+26,2023-05-30,fearless,TXT are the future of KPOP 💙,815,487,txt are the future of kpop,0.0,netral
+27,2023-09-22,buddyfan,I love BTS so much! KPOP forever 💜,616,98,i love bts so much  kpop forever,0.35,positif
+28,2023-04-08,vipfan,Twice performance is so powerful #ONCE,116,374,twice performance is so powerful  #once,0.3,positif
+29,2023-08-16,midzy,SHINee forever kings #Shawol,681,103,shinee forever kings  #shawol,0.0,netral
+30,2023-11-11,nctzenlife,EXO still kings of KPOP 🔥,116,208,exo still kings of kpop,0.0,netral
+31,2023-08-08,nctzenlife,Red Velvet vocals are insane 🎶 #ReVeluv,273,206,red velvet vocals are insane    #reveluv,-0.5,negatif
+32,2023-06-04,reveluv,BIGBANG changed KPOP industry #VIP,253,373,bigbang changed kpop industry  #vip,0.0,netral
+33,2023-10-21,moaarmy,Itzy charisma is no joke #MIDZY,380,159,itzy charisma is no joke  #midzy,0.0,netral
+34,2023-07-08,stayforever,Itzy charisma is no joke #MIDZY,867,58,itzy charisma is no joke  #midzy,0.0,netral
+35,2023-02-09,armyforever,NCT comeback soon! Can't wait 😍,129,391,nct comeback soon  can t wait,0.0,netral
+36,2023-08-04,blinkkpop,EXO still kings of KPOP 🔥,248,351,exo still kings of kpop,0.0,netral
+37,2023-12-22,shawol,Itzy charisma is no joke #MIDZY,883,294,itzy charisma is no joke  #midzy,0.0,netral
+38,2023-07-30,armylover,TXT are the future of KPOP 💙,756,352,txt are the future of kpop,0.0,netral
+39,2023-04-03,moaarmy,Itzy charisma is no joke #MIDZY,760,259,itzy charisma is no joke  #midzy,0.0,netral
+40,2023-04-18,vipfan,"Enhypen growing so fast, proud! #ENGENE",559,393,enhypen growing so fast  proud   #engene,0.5,positif
+41,2023-04-28,armylover,BTS paved the way #Army,711,179,bts paved the way  #army,0.0,netral
+42,2023-12-27,armyblink,Red Velvet vocals are insane 🎶 #ReVeluv,580,24,red velvet vocals are insane    #reveluv,-0.5,negatif
+43,2023-02-18,neverland,GFriend songs always touch my heart 💕,188,406,gfriend songs always touch my heart,0.0,netral
+44,2023-10-23,buddyfan,BLACKPINK just dropped a new MV 🔥 #KPOP,160,14,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+45,2023-12-23,caratdiamond,NCT comeback soon! Can't wait 😍,672,485,nct comeback soon  can t wait,0.0,netral
+46,2023-05-02,stayforever,Red Velvet vocals are insane 🎶 #ReVeluv,730,362,red velvet vocals are insane    #reveluv,-0.5,negatif
+47,2023-01-23,stayforever,EXO still kings of KPOP 🔥,798,60,exo still kings of kpop,0.0,netral
+48,2023-12-24,engene,LOONA legends #Orbit,775,33,loona legends  #orbit,0.0,netral
+49,2023-07-12,exolegend,BIGBANG changed KPOP industry #VIP,648,77,bigbang changed kpop industry  #vip,0.0,netral
+50,2023-06-28,stayforever,SHINee forever kings #Shawol,810,66,shinee forever kings  #shawol,0.0,netral
+51,2023-10-17,oncefan,Stray Kids are dominating the stage! #STAY,590,489,stray kids are dominating the stage   #stay,0.0,netral
+52,2023-01-12,vipfan,Red Velvet vocals are insane 🎶 #ReVeluv,132,73,red velvet vocals are insane    #reveluv,-0.5,negatif
+53,2023-01-24,armyblink,LOONA legends #Orbit,612,273,loona legends  #orbit,0.0,netral
+54,2023-11-21,engene,BTS x BLACKPINK collab dream? 😱,989,390,bts x blackpink collab dream,0.0,netral
+55,2023-06-17,midzy,GFriend songs always touch my heart 💕,772,352,gfriend songs always touch my heart,0.0,netral
+56,2023-12-23,vipfan,Itzy charisma is no joke #MIDZY,549,401,itzy charisma is no joke  #midzy,0.0,netral
+57,2023-03-16,blinkkpop,LE SSERAFIM slaying stages #FEARLESS,499,286,le sserafim slaying stages  #fearless,0.0,netral
+58,2023-06-12,vipfan,Twice performance is so powerful #ONCE,699,416,twice performance is so powerful  #once,0.3,positif
+59,2023-04-18,shawol,LE SSERAFIM slaying stages #FEARLESS,321,470,le sserafim slaying stages  #fearless,0.0,netral
+60,2023-12-24,nctzenlife,Idle rising so strong #Neverland,693,210,idle rising so strong  #neverland,0.43333333333333335,positif
+61,2023-07-21,armyblink,BTS paved the way #Army,524,319,bts paved the way  #army,0.0,netral
+62,2023-06-11,neverland,LOONA legends #Orbit,371,69,loona legends  #orbit,0.0,netral
+63,2023-03-06,engene,Seventeen world tour is amazing! #CARAT,84,54,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+64,2023-03-02,stayforever,Idle rising so strong #Neverland,413,135,idle rising so strong  #neverland,0.43333333333333335,positif
+65,2023-08-14,moaarmy,LOONA legends #Orbit,737,270,loona legends  #orbit,0.0,netral
+66,2023-12-28,nctzenlife,EXO still kings of KPOP 🔥,875,427,exo still kings of kpop,0.0,netral
+67,2023-06-27,reveluv,BTS x BLACKPINK collab dream? 😱,284,300,bts x blackpink collab dream,0.0,netral
+68,2023-10-20,engene,NCT comeback soon! Can't wait 😍,936,211,nct comeback soon  can t wait,0.0,netral
+69,2023-04-15,oncefan,BTS x BLACKPINK collab dream? 😱,379,348,bts x blackpink collab dream,0.0,netral
+70,2023-04-26,armyblink,I love BTS so much! KPOP forever 💜,426,346,i love bts so much  kpop forever,0.35,positif
+71,2023-06-23,vipfan,LE SSERAFIM slaying stages #FEARLESS,316,34,le sserafim slaying stages  #fearless,0.0,netral
+72,2023-07-07,armylover,TXT are the future of KPOP 💙,636,439,txt are the future of kpop,0.0,netral
+73,2023-10-19,oncefan,BLACKPINK just dropped a new MV 🔥 #KPOP,778,399,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+74,2023-05-09,armyforever,Stray Kids are dominating the stage! #STAY,567,112,stray kids are dominating the stage   #stay,0.0,netral
+75,2023-05-29,shawol,"Enhypen growing so fast, proud! #ENGENE",842,254,enhypen growing so fast  proud   #engene,0.5,positif
+76,2023-04-11,blinkkpop,GFriend songs always touch my heart 💕,78,202,gfriend songs always touch my heart,0.0,netral
+77,2023-09-15,orbitluv,Seventeen world tour is amazing! #CARAT,175,139,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+78,2023-01-20,moaarmy,LOONA legends #Orbit,402,175,loona legends  #orbit,0.0,netral
+79,2023-08-15,fearless,I love BTS so much! KPOP forever 💜,858,445,i love bts so much  kpop forever,0.35,positif
+80,2023-02-21,moaarmy,Itzy charisma is no joke #MIDZY,560,54,itzy charisma is no joke  #midzy,0.0,netral
+81,2023-09-02,stayforever,Idle rising so strong #Neverland,584,447,idle rising so strong  #neverland,0.43333333333333335,positif
+82,2023-12-29,engene,Seventeen world tour is amazing! #CARAT,642,158,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+83,2023-11-11,shawol,I love BTS so much! KPOP forever 💜,299,454,i love bts so much  kpop forever,0.35,positif
+84,2023-10-10,exolegend,I love BTS so much! KPOP forever 💜,427,58,i love bts so much  kpop forever,0.35,positif
+85,2023-01-04,neverland,BTS paved the way #Army,617,357,bts paved the way  #army,0.0,netral
+86,2023-03-06,fearless,Idle rising so strong #Neverland,259,91,idle rising so strong  #neverland,0.43333333333333335,positif
+87,2023-03-22,moaarmy,"Enhypen growing so fast, proud! #ENGENE",558,368,enhypen growing so fast  proud   #engene,0.5,positif
+88,2023-11-26,midzy,SHINee forever kings #Shawol,810,151,shinee forever kings  #shawol,0.0,netral
+89,2023-05-24,fearless,BLACKPINK in your area! 💖,346,467,blackpink in your area,0.0,netral
+90,2023-05-19,engene,SHINee forever kings #Shawol,947,283,shinee forever kings  #shawol,0.0,netral
+91,2023-06-22,orbitluv,Seventeen world tour is amazing! #CARAT,599,213,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+92,2023-10-31,armylover,TXT are the future of KPOP 💙,797,130,txt are the future of kpop,0.0,netral
+93,2023-09-19,oncefan,BTS x BLACKPINK collab dream? 😱,766,388,bts x blackpink collab dream,0.0,netral
+94,2023-03-02,blinkqueen,Twice performance is so powerful #ONCE,399,223,twice performance is so powerful  #once,0.3,positif
+95,2023-11-01,vipfan,LOONA legends #Orbit,726,204,loona legends  #orbit,0.0,netral
+96,2023-12-27,blinkqueen,BLACKPINK in your area! 💖,216,43,blackpink in your area,0.0,netral
+97,2023-02-23,exolegend,Seventeen world tour is amazing! #CARAT,498,302,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+98,2023-07-31,neverland,GFriend songs always touch my heart 💕,442,191,gfriend songs always touch my heart,0.0,netral
+99,2023-05-28,midzy,BLACKPINK in your area! 💖,908,213,blackpink in your area,0.0,netral
+100,2023-04-24,stayforever,BTS paved the way #Army,309,387,bts paved the way  #army,0.0,netral
+101,2023-04-14,engene,GFriend songs always touch my heart 💕,927,230,gfriend songs always touch my heart,0.0,netral
+102,2023-12-21,engene,Stray Kids are dominating the stage! #STAY,226,430,stray kids are dominating the stage   #stay,0.0,netral
+103,2023-08-30,neverland,Seventeen world tour is amazing! #CARAT,903,323,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+104,2023-05-15,orbitluv,BLACKPINK in your area! 💖,97,413,blackpink in your area,0.0,netral
+105,2023-07-06,blinkqueen,SHINee forever kings #Shawol,289,41,shinee forever kings  #shawol,0.0,netral
+106,2023-12-04,reveluv,BTS paved the way #Army,697,391,bts paved the way  #army,0.0,netral
+107,2023-07-25,armylover,BLACKPINK in your area! 💖,259,57,blackpink in your area,0.0,netral
+108,2023-11-05,caratdiamond,Seventeen world tour is amazing! #CARAT,622,92,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+109,2023-12-02,caratdiamond,BLACKPINK in your area! 💖,139,82,blackpink in your area,0.0,netral
+110,2023-02-14,blinkqueen,LOONA legends #Orbit,107,364,loona legends  #orbit,0.0,netral
+111,2023-09-24,shawol,LOONA legends #Orbit,401,402,loona legends  #orbit,0.0,netral
+112,2023-11-28,armyblink,LOONA legends #Orbit,975,380,loona legends  #orbit,0.0,netral
+113,2023-03-26,shawol,Itzy charisma is no joke #MIDZY,591,24,itzy charisma is no joke  #midzy,0.0,netral
+114,2023-05-13,moaarmy,Idle rising so strong #Neverland,703,439,idle rising so strong  #neverland,0.43333333333333335,positif
+115,2023-02-12,moaarmy,GFriend songs always touch my heart 💕,855,375,gfriend songs always touch my heart,0.0,netral
+116,2023-04-08,armylover,BIGBANG changed KPOP industry #VIP,983,195,bigbang changed kpop industry  #vip,0.0,netral
+117,2023-06-27,engene,Red Velvet vocals are insane 🎶 #ReVeluv,151,131,red velvet vocals are insane    #reveluv,-0.5,negatif
+118,2023-06-25,fearless,I love BTS so much! KPOP forever 💜,928,105,i love bts so much  kpop forever,0.35,positif
+119,2023-07-08,vipfan,Twice performance is so powerful #ONCE,846,156,twice performance is so powerful  #once,0.3,positif
+120,2023-10-07,buddyfan,Idle rising so strong #Neverland,557,472,idle rising so strong  #neverland,0.43333333333333335,positif
+121,2023-04-24,armylover,"Enhypen growing so fast, proud! #ENGENE",617,301,enhypen growing so fast  proud   #engene,0.5,positif
+122,2023-06-05,shawol,BIGBANG changed KPOP industry #VIP,289,179,bigbang changed kpop industry  #vip,0.0,netral
+123,2023-03-26,armyblink,I love BTS so much! KPOP forever 💜,87,121,i love bts so much  kpop forever,0.35,positif
+124,2023-02-20,blinkkpop,Stray Kids are dominating the stage! #STAY,59,309,stray kids are dominating the stage   #stay,0.0,netral
+125,2023-08-24,blinkqueen,TXT are the future of KPOP 💙,569,185,txt are the future of kpop,0.0,netral
+126,2023-04-27,stayforever,BLACKPINK in your area! 💖,875,351,blackpink in your area,0.0,netral
+127,2023-06-01,armyblink,BLACKPINK just dropped a new MV 🔥 #KPOP,897,79,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+128,2023-03-15,vipfan,BLACKPINK in your area! 💖,327,449,blackpink in your area,0.0,netral
+129,2023-01-12,stayforever,Twice performance is so powerful #ONCE,372,429,twice performance is so powerful  #once,0.3,positif
+130,2023-05-04,armyforever,BIGBANG changed KPOP industry #VIP,696,112,bigbang changed kpop industry  #vip,0.0,netral
+131,2023-12-10,neverland,Red Velvet vocals are insane 🎶 #ReVeluv,125,397,red velvet vocals are insane    #reveluv,-0.5,negatif
+132,2023-01-02,fearless,Seventeen world tour is amazing! #CARAT,155,325,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+133,2023-08-15,orbitluv,Twice performance is so powerful #ONCE,760,340,twice performance is so powerful  #once,0.3,positif
+134,2023-12-20,moaarmy,LOONA legends #Orbit,133,490,loona legends  #orbit,0.0,netral
+135,2023-04-18,caratdiamond,BIGBANG changed KPOP industry #VIP,402,450,bigbang changed kpop industry  #vip,0.0,netral
+136,2023-04-26,oncefan,BIGBANG changed KPOP industry #VIP,738,49,bigbang changed kpop industry  #vip,0.0,netral
+137,2023-05-28,armylover,LE SSERAFIM slaying stages #FEARLESS,543,353,le sserafim slaying stages  #fearless,0.0,netral
+138,2023-01-09,fearless,LOONA legends #Orbit,696,422,loona legends  #orbit,0.0,netral
+139,2023-06-29,nctzenlife,"Enhypen growing so fast, proud! #ENGENE",266,69,enhypen growing so fast  proud   #engene,0.5,positif
+140,2023-07-07,armyforever,LOONA legends #Orbit,983,217,loona legends  #orbit,0.0,netral
+141,2023-06-07,oncefan,Seventeen world tour is amazing! #CARAT,991,412,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+142,2023-10-05,midzy,LOONA legends #Orbit,629,214,loona legends  #orbit,0.0,netral
+143,2023-05-19,blinkqueen,TXT are the future of KPOP 💙,717,368,txt are the future of kpop,0.0,netral
+144,2023-04-15,nctzenlife,Twice performance is so powerful #ONCE,822,312,twice performance is so powerful  #once,0.3,positif
+145,2023-03-10,armylover,BTS paved the way #Army,200,109,bts paved the way  #army,0.0,netral
+146,2023-09-18,orbitluv,Itzy charisma is no joke #MIDZY,95,443,itzy charisma is no joke  #midzy,0.0,netral
+147,2023-05-10,stayforever,LE SSERAFIM slaying stages #FEARLESS,231,258,le sserafim slaying stages  #fearless,0.0,netral
+148,2023-08-26,armyforever,Idle rising so strong #Neverland,408,225,idle rising so strong  #neverland,0.43333333333333335,positif
+149,2023-06-26,vipfan,Itzy charisma is no joke #MIDZY,947,102,itzy charisma is no joke  #midzy,0.0,netral
+150,2023-06-20,vipfan,EXO still kings of KPOP 🔥,574,153,exo still kings of kpop,0.0,netral
+151,2023-05-18,reveluv,Twice performance is so powerful #ONCE,855,69,twice performance is so powerful  #once,0.3,positif
+152,2023-03-29,reveluv,BTS x BLACKPINK collab dream? 😱,576,461,bts x blackpink collab dream,0.0,netral
+153,2023-07-07,blinkqueen,Idle rising so strong #Neverland,628,468,idle rising so strong  #neverland,0.43333333333333335,positif
+154,2023-03-19,exolegend,GFriend songs always touch my heart 💕,837,260,gfriend songs always touch my heart,0.0,netral
+155,2023-07-16,moaarmy,LE SSERAFIM slaying stages #FEARLESS,242,49,le sserafim slaying stages  #fearless,0.0,netral
+156,2023-02-05,engene,NCT comeback soon! Can't wait 😍,279,256,nct comeback soon  can t wait,0.0,netral
+157,2023-10-15,buddyfan,Twice performance is so powerful #ONCE,618,211,twice performance is so powerful  #once,0.3,positif
+158,2023-08-08,vipfan,EXO still kings of KPOP 🔥,457,41,exo still kings of kpop,0.0,netral
+159,2023-04-27,exolegend,EXO still kings of KPOP 🔥,301,28,exo still kings of kpop,0.0,netral
+160,2023-01-04,caratdiamond,BLACKPINK just dropped a new MV 🔥 #KPOP,659,97,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+161,2023-03-13,blinkqueen,EXO still kings of KPOP 🔥,683,447,exo still kings of kpop,0.0,netral
+162,2023-09-02,moaarmy,GFriend songs always touch my heart 💕,229,371,gfriend songs always touch my heart,0.0,netral
+163,2023-06-30,shawol,Twice performance is so powerful #ONCE,190,425,twice performance is so powerful  #once,0.3,positif
+164,2023-11-14,armyforever,BTS x BLACKPINK collab dream? 😱,431,259,bts x blackpink collab dream,0.0,netral
+165,2023-12-17,stayforever,BLACKPINK in your area! 💖,700,414,blackpink in your area,0.0,netral
+166,2023-08-10,neverland,Seventeen world tour is amazing! #CARAT,365,424,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+167,2023-07-14,shawol,"Enhypen growing so fast, proud! #ENGENE",739,287,enhypen growing so fast  proud   #engene,0.5,positif
+168,2023-03-14,reveluv,EXO still kings of KPOP 🔥,345,161,exo still kings of kpop,0.0,netral
+169,2023-06-26,armyforever,I love BTS so much! KPOP forever 💜,462,465,i love bts so much  kpop forever,0.35,positif
+170,2023-03-01,reveluv,Seventeen world tour is amazing! #CARAT,378,216,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+171,2023-04-22,caratdiamond,GFriend songs always touch my heart 💕,471,373,gfriend songs always touch my heart,0.0,netral
+172,2023-05-31,fearless,GFriend songs always touch my heart 💕,135,63,gfriend songs always touch my heart,0.0,netral
+173,2023-10-17,caratdiamond,SHINee forever kings #Shawol,562,69,shinee forever kings  #shawol,0.0,netral
+174,2023-04-07,stayforever,SHINee forever kings #Shawol,916,359,shinee forever kings  #shawol,0.0,netral
+175,2023-06-15,vipfan,"Enhypen growing so fast, proud! #ENGENE",533,402,enhypen growing so fast  proud   #engene,0.5,positif
+176,2023-07-03,caratdiamond,EXO still kings of KPOP 🔥,741,59,exo still kings of kpop,0.0,netral
+177,2023-01-13,buddyfan,BLACKPINK just dropped a new MV 🔥 #KPOP,723,337,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+178,2023-11-12,exolegend,BTS paved the way #Army,124,38,bts paved the way  #army,0.0,netral
+179,2023-07-26,exolegend,I love BTS so much! KPOP forever 💜,467,56,i love bts so much  kpop forever,0.35,positif
+180,2023-02-10,fearless,I love BTS so much! KPOP forever 💜,306,170,i love bts so much  kpop forever,0.35,positif
+181,2023-04-15,midzy,Seventeen world tour is amazing! #CARAT,809,426,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+182,2023-05-20,armyblink,Itzy charisma is no joke #MIDZY,554,82,itzy charisma is no joke  #midzy,0.0,netral
+183,2023-11-06,shawol,BLACKPINK in your area! 💖,256,381,blackpink in your area,0.0,netral
+184,2023-05-16,oncefan,Itzy charisma is no joke #MIDZY,438,163,itzy charisma is no joke  #midzy,0.0,netral
+185,2023-01-09,shawol,Red Velvet vocals are insane 🎶 #ReVeluv,107,370,red velvet vocals are insane    #reveluv,-0.5,negatif
+186,2023-05-15,oncefan,GFriend songs always touch my heart 💕,484,53,gfriend songs always touch my heart,0.0,netral
+187,2023-09-26,exolegend,BLACKPINK in your area! 💖,71,19,blackpink in your area,0.0,netral
+188,2023-09-07,moaarmy,BTS paved the way #Army,154,196,bts paved the way  #army,0.0,netral
+189,2023-11-20,armylover,TXT are the future of KPOP 💙,750,269,txt are the future of kpop,0.0,netral
+190,2023-01-12,armyforever,Seventeen world tour is amazing! #CARAT,702,136,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+191,2023-05-09,shawol,LOONA legends #Orbit,585,187,loona legends  #orbit,0.0,netral
+192,2023-02-28,armyblink,Twice performance is so powerful #ONCE,502,143,twice performance is so powerful  #once,0.3,positif
+193,2023-12-18,armyforever,Twice performance is so powerful #ONCE,538,357,twice performance is so powerful  #once,0.3,positif
+194,2023-10-19,fearless,BTS x BLACKPINK collab dream? 😱,546,129,bts x blackpink collab dream,0.0,netral
+195,2023-07-12,oncefan,EXO still kings of KPOP 🔥,870,320,exo still kings of kpop,0.0,netral
+196,2023-06-24,armyblink,LE SSERAFIM slaying stages #FEARLESS,612,148,le sserafim slaying stages  #fearless,0.0,netral
+197,2023-06-05,nctzenlife,LE SSERAFIM slaying stages #FEARLESS,425,67,le sserafim slaying stages  #fearless,0.0,netral
+198,2023-07-09,exolegend,Itzy charisma is no joke #MIDZY,332,273,itzy charisma is no joke  #midzy,0.0,netral
+199,2023-09-05,shawol,Stray Kids are dominating the stage! #STAY,576,195,stray kids are dominating the stage   #stay,0.0,netral
+200,2023-11-29,neverland,Idle rising so strong #Neverland,369,375,idle rising so strong  #neverland,0.43333333333333335,positif
+201,2023-08-23,engene,Stray Kids are dominating the stage! #STAY,429,243,stray kids are dominating the stage   #stay,0.0,netral
+202,2023-06-11,neverland,I love BTS so much! KPOP forever 💜,474,253,i love bts so much  kpop forever,0.35,positif
+203,2023-11-23,buddyfan,"Enhypen growing so fast, proud! #ENGENE",193,107,enhypen growing so fast  proud   #engene,0.5,positif
+204,2023-08-22,midzy,Stray Kids are dominating the stage! #STAY,762,348,stray kids are dominating the stage   #stay,0.0,netral
+205,2023-11-15,armyblink,Red Velvet vocals are insane 🎶 #ReVeluv,648,428,red velvet vocals are insane    #reveluv,-0.5,negatif
+206,2023-06-12,blinkqueen,LE SSERAFIM slaying stages #FEARLESS,249,378,le sserafim slaying stages  #fearless,0.0,netral
+207,2023-04-18,armyforever,NCT comeback soon! Can't wait 😍,629,390,nct comeback soon  can t wait,0.0,netral
+208,2023-01-13,reveluv,GFriend songs always touch my heart 💕,302,410,gfriend songs always touch my heart,0.0,netral
+209,2023-08-15,nctzenlife,BLACKPINK just dropped a new MV 🔥 #KPOP,473,365,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+210,2023-01-18,exolegend,Twice performance is so powerful #ONCE,483,445,twice performance is so powerful  #once,0.3,positif
+211,2023-09-12,midzy,Idle rising so strong #Neverland,665,402,idle rising so strong  #neverland,0.43333333333333335,positif
+212,2023-04-24,armylover,SHINee forever kings #Shawol,351,215,shinee forever kings  #shawol,0.0,netral
+213,2023-08-21,exolegend,I love BTS so much! KPOP forever 💜,504,279,i love bts so much  kpop forever,0.35,positif
+214,2023-07-04,engene,Red Velvet vocals are insane 🎶 #ReVeluv,853,186,red velvet vocals are insane    #reveluv,-0.5,negatif
+215,2023-12-19,moaarmy,EXO still kings of KPOP 🔥,189,117,exo still kings of kpop,0.0,netral
+216,2023-08-16,armylover,GFriend songs always touch my heart 💕,591,309,gfriend songs always touch my heart,0.0,netral
+217,2023-03-14,engene,BTS x BLACKPINK collab dream? 😱,808,273,bts x blackpink collab dream,0.0,netral
+218,2023-01-23,blinkqueen,Seventeen world tour is amazing! #CARAT,577,172,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+219,2023-02-24,blinkkpop,NCT comeback soon! Can't wait 😍,747,382,nct comeback soon  can t wait,0.0,netral
+220,2023-03-26,oncefan,LE SSERAFIM slaying stages #FEARLESS,792,337,le sserafim slaying stages  #fearless,0.0,netral
+221,2023-02-16,oncefan,LE SSERAFIM slaying stages #FEARLESS,629,179,le sserafim slaying stages  #fearless,0.0,netral
+222,2023-04-25,nctzenlife,BIGBANG changed KPOP industry #VIP,215,450,bigbang changed kpop industry  #vip,0.0,netral
+223,2023-12-08,vipfan,Itzy charisma is no joke #MIDZY,806,270,itzy charisma is no joke  #midzy,0.0,netral
+224,2023-01-14,caratdiamond,Seventeen world tour is amazing! #CARAT,360,389,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+225,2023-03-11,fearless,BIGBANG changed KPOP industry #VIP,543,238,bigbang changed kpop industry  #vip,0.0,netral
+226,2023-11-20,armyforever,LOONA legends #Orbit,390,244,loona legends  #orbit,0.0,netral
+227,2023-04-28,buddyfan,SHINee forever kings #Shawol,632,295,shinee forever kings  #shawol,0.0,netral
+228,2023-12-23,blinkkpop,Seventeen world tour is amazing! #CARAT,811,433,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+229,2023-10-15,orbitluv,GFriend songs always touch my heart 💕,91,454,gfriend songs always touch my heart,0.0,netral
+230,2023-08-07,caratdiamond,GFriend songs always touch my heart 💕,444,225,gfriend songs always touch my heart,0.0,netral
+231,2023-05-10,neverland,LOONA legends #Orbit,432,471,loona legends  #orbit,0.0,netral
+232,2023-08-24,nctzenlife,GFriend songs always touch my heart 💕,970,346,gfriend songs always touch my heart,0.0,netral
+233,2023-07-10,neverland,BTS x BLACKPINK collab dream? 😱,308,202,bts x blackpink collab dream,0.0,netral
+234,2023-04-12,buddyfan,BIGBANG changed KPOP industry #VIP,89,411,bigbang changed kpop industry  #vip,0.0,netral
+235,2023-11-07,stayforever,Twice performance is so powerful #ONCE,406,307,twice performance is so powerful  #once,0.3,positif
+236,2023-03-05,engene,I love BTS so much! KPOP forever 💜,314,329,i love bts so much  kpop forever,0.35,positif
+237,2023-08-08,armyforever,BLACKPINK just dropped a new MV 🔥 #KPOP,376,429,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+238,2023-08-17,vipfan,BLACKPINK just dropped a new MV 🔥 #KPOP,109,10,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+239,2023-10-12,vipfan,Itzy charisma is no joke #MIDZY,658,257,itzy charisma is no joke  #midzy,0.0,netral
+240,2023-04-25,armyblink,Red Velvet vocals are insane 🎶 #ReVeluv,832,272,red velvet vocals are insane    #reveluv,-0.5,negatif
+241,2023-09-21,nctzenlife,BLACKPINK in your area! 💖,482,14,blackpink in your area,0.0,netral
+242,2023-12-18,armyforever,EXO still kings of KPOP 🔥,631,214,exo still kings of kpop,0.0,netral
+243,2023-01-18,midzy,"Enhypen growing so fast, proud! #ENGENE",182,441,enhypen growing so fast  proud   #engene,0.5,positif
+244,2023-10-14,vipfan,Itzy charisma is no joke #MIDZY,868,138,itzy charisma is no joke  #midzy,0.0,netral
+245,2023-01-23,reveluv,Itzy charisma is no joke #MIDZY,523,460,itzy charisma is no joke  #midzy,0.0,netral
+246,2023-10-04,nctzenlife,BLACKPINK in your area! 💖,148,357,blackpink in your area,0.0,netral
+247,2023-09-21,blinkkpop,Red Velvet vocals are insane 🎶 #ReVeluv,445,209,red velvet vocals are insane    #reveluv,-0.5,negatif
+248,2023-04-29,armylover,Seventeen world tour is amazing! #CARAT,908,250,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+249,2023-06-24,armyforever,SHINee forever kings #Shawol,426,272,shinee forever kings  #shawol,0.0,netral
+250,2023-03-18,neverland,BTS paved the way #Army,803,431,bts paved the way  #army,0.0,netral
+251,2023-09-15,buddyfan,NCT comeback soon! Can't wait 😍,848,374,nct comeback soon  can t wait,0.0,netral
+252,2023-04-01,reveluv,BIGBANG changed KPOP industry #VIP,927,28,bigbang changed kpop industry  #vip,0.0,netral
+253,2023-02-08,midzy,BLACKPINK just dropped a new MV 🔥 #KPOP,252,266,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+254,2023-09-13,blinkkpop,NCT comeback soon! Can't wait 😍,513,16,nct comeback soon  can t wait,0.0,netral
+255,2023-04-08,armylover,LOONA legends #Orbit,813,42,loona legends  #orbit,0.0,netral
+256,2023-02-16,midzy,TXT are the future of KPOP 💙,114,498,txt are the future of kpop,0.0,netral
+257,2023-02-17,caratdiamond,Stray Kids are dominating the stage! #STAY,942,66,stray kids are dominating the stage   #stay,0.0,netral
+258,2023-10-08,reveluv,EXO still kings of KPOP 🔥,263,240,exo still kings of kpop,0.0,netral
+259,2023-07-23,neverland,NCT comeback soon! Can't wait 😍,854,379,nct comeback soon  can t wait,0.0,netral
+260,2023-09-11,fearless,BLACKPINK in your area! 💖,907,132,blackpink in your area,0.0,netral
+261,2023-03-04,shawol,"Enhypen growing so fast, proud! #ENGENE",781,174,enhypen growing so fast  proud   #engene,0.5,positif
+262,2023-05-09,shawol,LOONA legends #Orbit,253,156,loona legends  #orbit,0.0,netral
+263,2023-03-25,armyblink,LE SSERAFIM slaying stages #FEARLESS,431,158,le sserafim slaying stages  #fearless,0.0,netral
+264,2023-09-28,vipfan,BTS paved the way #Army,462,259,bts paved the way  #army,0.0,netral
+265,2023-03-22,orbitluv,LE SSERAFIM slaying stages #FEARLESS,915,279,le sserafim slaying stages  #fearless,0.0,netral
+266,2023-08-18,moaarmy,Seventeen world tour is amazing! #CARAT,849,307,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+267,2023-12-23,exolegend,BLACKPINK just dropped a new MV 🔥 #KPOP,450,133,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+268,2023-09-12,neverland,BTS x BLACKPINK collab dream? 😱,522,318,bts x blackpink collab dream,0.0,netral
+269,2023-06-21,moaarmy,Seventeen world tour is amazing! #CARAT,860,181,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+270,2023-06-12,orbitluv,LOONA legends #Orbit,273,228,loona legends  #orbit,0.0,netral
+271,2023-04-30,shawol,BLACKPINK just dropped a new MV 🔥 #KPOP,499,424,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+272,2023-11-12,oncefan,LE SSERAFIM slaying stages #FEARLESS,707,187,le sserafim slaying stages  #fearless,0.0,netral
+273,2023-10-01,midzy,BLACKPINK just dropped a new MV 🔥 #KPOP,636,430,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+274,2023-05-27,oncefan,BTS paved the way #Army,268,324,bts paved the way  #army,0.0,netral
+275,2023-05-13,engene,TXT are the future of KPOP 💙,181,105,txt are the future of kpop,0.0,netral
+276,2023-07-06,fearless,Idle rising so strong #Neverland,835,216,idle rising so strong  #neverland,0.43333333333333335,positif
+277,2023-01-30,shawol,Seventeen world tour is amazing! #CARAT,217,126,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+278,2023-12-09,fearless,BTS x BLACKPINK collab dream? 😱,347,166,bts x blackpink collab dream,0.0,netral
+279,2023-01-04,fearless,Twice performance is so powerful #ONCE,191,157,twice performance is so powerful  #once,0.3,positif
+280,2023-09-13,caratdiamond,I love BTS so much! KPOP forever 💜,92,75,i love bts so much  kpop forever,0.35,positif
+281,2023-08-21,stayforever,Idle rising so strong #Neverland,500,15,idle rising so strong  #neverland,0.43333333333333335,positif
+282,2023-07-04,engene,TXT are the future of KPOP 💙,311,85,txt are the future of kpop,0.0,netral
+283,2023-04-18,buddyfan,BTS x BLACKPINK collab dream? 😱,885,231,bts x blackpink collab dream,0.0,netral
+284,2023-07-25,oncefan,Seventeen world tour is amazing! #CARAT,856,57,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+285,2023-09-10,armyblink,NCT comeback soon! Can't wait 😍,910,152,nct comeback soon  can t wait,0.0,netral
+286,2023-10-10,orbitluv,"Enhypen growing so fast, proud! #ENGENE",586,387,enhypen growing so fast  proud   #engene,0.5,positif
+287,2023-10-21,blinkqueen,BLACKPINK in your area! 💖,919,411,blackpink in your area,0.0,netral
+288,2023-09-19,armyforever,GFriend songs always touch my heart 💕,499,63,gfriend songs always touch my heart,0.0,netral
+289,2023-07-11,armylover,BIGBANG changed KPOP industry #VIP,418,422,bigbang changed kpop industry  #vip,0.0,netral
+290,2023-11-21,orbitluv,Idle rising so strong #Neverland,662,58,idle rising so strong  #neverland,0.43333333333333335,positif
+291,2023-02-13,nctzenlife,GFriend songs always touch my heart 💕,385,295,gfriend songs always touch my heart,0.0,netral
+292,2023-01-14,armylover,"Enhypen growing so fast, proud! #ENGENE",536,47,enhypen growing so fast  proud   #engene,0.5,positif
+293,2023-07-16,orbitluv,LE SSERAFIM slaying stages #FEARLESS,302,207,le sserafim slaying stages  #fearless,0.0,netral
+294,2023-11-19,nctzenlife,Itzy charisma is no joke #MIDZY,717,281,itzy charisma is no joke  #midzy,0.0,netral
+295,2023-03-18,fearless,SHINee forever kings #Shawol,152,225,shinee forever kings  #shawol,0.0,netral
+296,2023-12-13,exolegend,Red Velvet vocals are insane 🎶 #ReVeluv,299,166,red velvet vocals are insane    #reveluv,-0.5,negatif
+297,2023-08-04,fearless,Idle rising so strong #Neverland,602,441,idle rising so strong  #neverland,0.43333333333333335,positif
+298,2023-06-15,stayforever,LE SSERAFIM slaying stages #FEARLESS,388,269,le sserafim slaying stages  #fearless,0.0,netral
+299,2023-08-11,nctzenlife,Twice performance is so powerful #ONCE,333,38,twice performance is so powerful  #once,0.3,positif
+300,2023-02-05,nctzenlife,SHINee forever kings #Shawol,614,354,shinee forever kings  #shawol,0.0,netral
+301,2023-02-01,oncefan,BLACKPINK just dropped a new MV 🔥 #KPOP,967,287,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+302,2023-11-20,stayforever,LOONA legends #Orbit,861,140,loona legends  #orbit,0.0,netral
+303,2023-05-14,vipfan,I love BTS so much! KPOP forever 💜,499,213,i love bts so much  kpop forever,0.35,positif
+304,2023-04-29,blinkkpop,NCT comeback soon! Can't wait 😍,462,332,nct comeback soon  can t wait,0.0,netral
+305,2023-10-16,nctzenlife,Twice performance is so powerful #ONCE,319,321,twice performance is so powerful  #once,0.3,positif
+306,2023-03-09,blinkkpop,LOONA legends #Orbit,102,474,loona legends  #orbit,0.0,netral
+307,2023-10-10,moaarmy,SHINee forever kings #Shawol,826,426,shinee forever kings  #shawol,0.0,netral
+308,2023-04-20,midzy,I love BTS so much! KPOP forever 💜,91,232,i love bts so much  kpop forever,0.35,positif
+309,2023-01-11,stayforever,I love BTS so much! KPOP forever 💜,771,301,i love bts so much  kpop forever,0.35,positif
+310,2023-07-13,shawol,BTS x BLACKPINK collab dream? 😱,526,439,bts x blackpink collab dream,0.0,netral
+311,2023-06-04,shawol,LOONA legends #Orbit,206,238,loona legends  #orbit,0.0,netral
+312,2023-05-19,armylover,BTS paved the way #Army,703,500,bts paved the way  #army,0.0,netral
+313,2023-08-21,vipfan,BIGBANG changed KPOP industry #VIP,114,34,bigbang changed kpop industry  #vip,0.0,netral
+314,2023-05-26,shawol,Itzy charisma is no joke #MIDZY,941,289,itzy charisma is no joke  #midzy,0.0,netral
+315,2023-09-24,shawol,SHINee forever kings #Shawol,728,482,shinee forever kings  #shawol,0.0,netral
+316,2023-01-16,orbitluv,SHINee forever kings #Shawol,425,179,shinee forever kings  #shawol,0.0,netral
+317,2023-02-14,blinkqueen,BIGBANG changed KPOP industry #VIP,165,71,bigbang changed kpop industry  #vip,0.0,netral
+318,2023-06-23,oncefan,I love BTS so much! KPOP forever 💜,983,129,i love bts so much  kpop forever,0.35,positif
+319,2023-08-16,midzy,Idle rising so strong #Neverland,495,16,idle rising so strong  #neverland,0.43333333333333335,positif
+320,2023-08-03,midzy,EXO still kings of KPOP 🔥,60,308,exo still kings of kpop,0.0,netral
+321,2023-04-21,reveluv,Idle rising so strong #Neverland,281,338,idle rising so strong  #neverland,0.43333333333333335,positif
+322,2023-03-06,buddyfan,LE SSERAFIM slaying stages #FEARLESS,165,425,le sserafim slaying stages  #fearless,0.0,netral
+323,2023-08-13,reveluv,LE SSERAFIM slaying stages #FEARLESS,388,152,le sserafim slaying stages  #fearless,0.0,netral
+324,2023-05-15,caratdiamond,"Enhypen growing so fast, proud! #ENGENE",762,307,enhypen growing so fast  proud   #engene,0.5,positif
+325,2023-07-31,shawol,Seventeen world tour is amazing! #CARAT,927,60,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+326,2023-06-06,blinkqueen,Twice performance is so powerful #ONCE,240,84,twice performance is so powerful  #once,0.3,positif
+327,2023-05-23,nctzenlife,Idle rising so strong #Neverland,992,363,idle rising so strong  #neverland,0.43333333333333335,positif
+328,2023-10-19,oncefan,"Enhypen growing so fast, proud! #ENGENE",413,63,enhypen growing so fast  proud   #engene,0.5,positif
+329,2023-03-08,midzy,LOONA legends #Orbit,698,348,loona legends  #orbit,0.0,netral
+330,2023-12-01,vipfan,BLACKPINK in your area! 💖,995,112,blackpink in your area,0.0,netral
+331,2023-01-22,neverland,GFriend songs always touch my heart 💕,912,293,gfriend songs always touch my heart,0.0,netral
+332,2023-05-11,blinkkpop,Red Velvet vocals are insane 🎶 #ReVeluv,992,215,red velvet vocals are insane    #reveluv,-0.5,negatif
+333,2023-05-16,stayforever,BLACKPINK in your area! 💖,203,12,blackpink in your area,0.0,netral
+334,2023-10-07,oncefan,LE SSERAFIM slaying stages #FEARLESS,462,452,le sserafim slaying stages  #fearless,0.0,netral
+335,2023-06-19,armyblink,Idle rising so strong #Neverland,803,145,idle rising so strong  #neverland,0.43333333333333335,positif
+336,2023-04-15,midzy,NCT comeback soon! Can't wait 😍,292,346,nct comeback soon  can t wait,0.0,netral
+337,2023-09-22,armyblink,Red Velvet vocals are insane 🎶 #ReVeluv,618,342,red velvet vocals are insane    #reveluv,-0.5,negatif
+338,2023-10-13,moaarmy,LOONA legends #Orbit,255,230,loona legends  #orbit,0.0,netral
+339,2023-05-11,fearless,NCT comeback soon! Can't wait 😍,258,132,nct comeback soon  can t wait,0.0,netral
+340,2023-02-03,shawol,BTS x BLACKPINK collab dream? 😱,370,349,bts x blackpink collab dream,0.0,netral
+341,2023-08-19,moaarmy,BIGBANG changed KPOP industry #VIP,973,268,bigbang changed kpop industry  #vip,0.0,netral
+342,2023-07-29,reveluv,EXO still kings of KPOP 🔥,716,275,exo still kings of kpop,0.0,netral
+343,2023-04-01,moaarmy,BTS paved the way #Army,726,121,bts paved the way  #army,0.0,netral
+344,2023-07-08,moaarmy,Idle rising so strong #Neverland,197,397,idle rising so strong  #neverland,0.43333333333333335,positif
+345,2023-12-25,reveluv,Twice performance is so powerful #ONCE,896,276,twice performance is so powerful  #once,0.3,positif
+346,2023-12-29,vipfan,LE SSERAFIM slaying stages #FEARLESS,921,150,le sserafim slaying stages  #fearless,0.0,netral
+347,2023-10-10,vipfan,Seventeen world tour is amazing! #CARAT,276,458,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+348,2023-02-04,orbitluv,BTS x BLACKPINK collab dream? 😱,171,258,bts x blackpink collab dream,0.0,netral
+349,2023-09-04,caratdiamond,BIGBANG changed KPOP industry #VIP,78,490,bigbang changed kpop industry  #vip,0.0,netral
+350,2023-07-18,oncefan,Stray Kids are dominating the stage! #STAY,802,330,stray kids are dominating the stage   #stay,0.0,netral
+351,2023-06-09,orbitluv,Twice performance is so powerful #ONCE,782,370,twice performance is so powerful  #once,0.3,positif
+352,2023-09-14,orbitluv,BTS paved the way #Army,132,42,bts paved the way  #army,0.0,netral
+353,2023-11-13,armyblink,LE SSERAFIM slaying stages #FEARLESS,675,459,le sserafim slaying stages  #fearless,0.0,netral
+354,2023-05-14,nctzenlife,Twice performance is so powerful #ONCE,400,441,twice performance is so powerful  #once,0.3,positif
+355,2023-09-19,nctzenlife,I love BTS so much! KPOP forever 💜,729,321,i love bts so much  kpop forever,0.35,positif
+356,2023-11-16,buddyfan,BLACKPINK in your area! 💖,981,228,blackpink in your area,0.0,netral
+357,2023-08-10,caratdiamond,TXT are the future of KPOP 💙,487,319,txt are the future of kpop,0.0,netral
+358,2023-08-23,buddyfan,GFriend songs always touch my heart 💕,363,417,gfriend songs always touch my heart,0.0,netral
+359,2023-03-11,reveluv,BTS x BLACKPINK collab dream? 😱,389,63,bts x blackpink collab dream,0.0,netral
+360,2023-05-27,armylover,GFriend songs always touch my heart 💕,57,351,gfriend songs always touch my heart,0.0,netral
+361,2023-12-29,shawol,BLACKPINK just dropped a new MV 🔥 #KPOP,475,74,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+362,2023-03-17,buddyfan,BIGBANG changed KPOP industry #VIP,323,32,bigbang changed kpop industry  #vip,0.0,netral
+363,2023-02-28,blinkqueen,I love BTS so much! KPOP forever 💜,749,444,i love bts so much  kpop forever,0.35,positif
+364,2023-11-20,neverland,BLACKPINK just dropped a new MV 🔥 #KPOP,91,441,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+365,2023-09-24,neverland,Itzy charisma is no joke #MIDZY,878,34,itzy charisma is no joke  #midzy,0.0,netral
+366,2023-07-12,midzy,BTS paved the way #Army,341,310,bts paved the way  #army,0.0,netral
+367,2023-08-09,caratdiamond,Seventeen world tour is amazing! #CARAT,225,377,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+368,2023-08-26,armyblink,SHINee forever kings #Shawol,398,58,shinee forever kings  #shawol,0.0,netral
+369,2023-12-10,oncefan,"Enhypen growing so fast, proud! #ENGENE",222,185,enhypen growing so fast  proud   #engene,0.5,positif
+370,2023-07-22,shawol,EXO still kings of KPOP 🔥,102,34,exo still kings of kpop,0.0,netral
+371,2023-08-11,buddyfan,Itzy charisma is no joke #MIDZY,674,402,itzy charisma is no joke  #midzy,0.0,netral
+372,2023-07-05,buddyfan,"Enhypen growing so fast, proud! #ENGENE",444,328,enhypen growing so fast  proud   #engene,0.5,positif
+373,2023-12-23,midzy,NCT comeback soon! Can't wait 😍,351,108,nct comeback soon  can t wait,0.0,netral
+374,2023-04-09,caratdiamond,GFriend songs always touch my heart 💕,302,355,gfriend songs always touch my heart,0.0,netral
+375,2023-01-23,fearless,BLACKPINK just dropped a new MV 🔥 #KPOP,596,425,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+376,2023-02-10,reveluv,NCT comeback soon! Can't wait 😍,272,175,nct comeback soon  can t wait,0.0,netral
+377,2023-07-15,armyforever,LOONA legends #Orbit,692,296,loona legends  #orbit,0.0,netral
+378,2023-06-20,neverland,BLACKPINK in your area! 💖,884,347,blackpink in your area,0.0,netral
+379,2023-06-07,fearless,Stray Kids are dominating the stage! #STAY,406,446,stray kids are dominating the stage   #stay,0.0,netral
+380,2023-09-10,armyblink,BTS paved the way #Army,873,316,bts paved the way  #army,0.0,netral
+381,2023-01-13,buddyfan,BLACKPINK just dropped a new MV 🔥 #KPOP,79,132,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+382,2023-06-11,moaarmy,Idle rising so strong #Neverland,501,206,idle rising so strong  #neverland,0.43333333333333335,positif
+383,2023-08-23,buddyfan,LE SSERAFIM slaying stages #FEARLESS,352,368,le sserafim slaying stages  #fearless,0.0,netral
+384,2023-03-08,stayforever,I love BTS so much! KPOP forever 💜,512,43,i love bts so much  kpop forever,0.35,positif
+385,2023-08-16,midzy,GFriend songs always touch my heart 💕,626,249,gfriend songs always touch my heart,0.0,netral
+386,2023-12-28,moaarmy,Red Velvet vocals are insane 🎶 #ReVeluv,479,338,red velvet vocals are insane    #reveluv,-0.5,negatif
+387,2023-05-06,armylover,Red Velvet vocals are insane 🎶 #ReVeluv,994,182,red velvet vocals are insane    #reveluv,-0.5,negatif
+388,2023-03-15,stayforever,EXO still kings of KPOP 🔥,397,229,exo still kings of kpop,0.0,netral
+389,2023-04-26,shawol,Idle rising so strong #Neverland,594,404,idle rising so strong  #neverland,0.43333333333333335,positif
+390,2023-04-22,orbitluv,"Enhypen growing so fast, proud! #ENGENE",469,31,enhypen growing so fast  proud   #engene,0.5,positif
+391,2023-08-12,exolegend,EXO still kings of KPOP 🔥,922,88,exo still kings of kpop,0.0,netral
+392,2023-07-08,caratdiamond,LE SSERAFIM slaying stages #FEARLESS,993,413,le sserafim slaying stages  #fearless,0.0,netral
+393,2023-02-17,neverland,BIGBANG changed KPOP industry #VIP,959,406,bigbang changed kpop industry  #vip,0.0,netral
+394,2023-05-26,reveluv,TXT are the future of KPOP 💙,56,230,txt are the future of kpop,0.0,netral
+395,2023-10-29,midzy,I love BTS so much! KPOP forever 💜,905,357,i love bts so much  kpop forever,0.35,positif
+396,2023-08-13,armyforever,Twice performance is so powerful #ONCE,119,92,twice performance is so powerful  #once,0.3,positif
+397,2023-08-23,nctzenlife,LE SSERAFIM slaying stages #FEARLESS,585,276,le sserafim slaying stages  #fearless,0.0,netral
+398,2023-01-26,midzy,GFriend songs always touch my heart 💕,208,173,gfriend songs always touch my heart,0.0,netral
+399,2023-09-29,armyblink,LOONA legends #Orbit,872,340,loona legends  #orbit,0.0,netral
+400,2023-04-02,moaarmy,BTS x BLACKPINK collab dream? 😱,534,361,bts x blackpink collab dream,0.0,netral
+401,2023-04-05,exolegend,Stray Kids are dominating the stage! #STAY,78,81,stray kids are dominating the stage   #stay,0.0,netral
+402,2023-02-11,blinkkpop,LOONA legends #Orbit,923,285,loona legends  #orbit,0.0,netral
+403,2023-09-01,vipfan,Twice performance is so powerful #ONCE,982,368,twice performance is so powerful  #once,0.3,positif
+404,2023-05-15,armyblink,BTS x BLACKPINK collab dream? 😱,380,195,bts x blackpink collab dream,0.0,netral
+405,2023-11-17,armylover,Idle rising so strong #Neverland,136,213,idle rising so strong  #neverland,0.43333333333333335,positif
+406,2023-06-24,nctzenlife,BIGBANG changed KPOP industry #VIP,143,365,bigbang changed kpop industry  #vip,0.0,netral
+407,2023-07-10,fearless,TXT are the future of KPOP 💙,340,355,txt are the future of kpop,0.0,netral
+408,2023-05-30,moaarmy,Idle rising so strong #Neverland,590,23,idle rising so strong  #neverland,0.43333333333333335,positif
+409,2023-03-22,engene,GFriend songs always touch my heart 💕,716,73,gfriend songs always touch my heart,0.0,netral
+410,2023-04-16,armyblink,NCT comeback soon! Can't wait 😍,162,400,nct comeback soon  can t wait,0.0,netral
+411,2023-01-08,armylover,TXT are the future of KPOP 💙,656,228,txt are the future of kpop,0.0,netral
+412,2023-02-15,orbitluv,LE SSERAFIM slaying stages #FEARLESS,741,111,le sserafim slaying stages  #fearless,0.0,netral
+413,2023-04-19,orbitluv,Idle rising so strong #Neverland,74,46,idle rising so strong  #neverland,0.43333333333333335,positif
+414,2023-04-28,moaarmy,LE SSERAFIM slaying stages #FEARLESS,779,242,le sserafim slaying stages  #fearless,0.0,netral
+415,2023-07-12,blinkqueen,BIGBANG changed KPOP industry #VIP,567,25,bigbang changed kpop industry  #vip,0.0,netral
+416,2023-01-22,moaarmy,TXT are the future of KPOP 💙,242,10,txt are the future of kpop,0.0,netral
+417,2023-02-08,nctzenlife,BIGBANG changed KPOP industry #VIP,732,214,bigbang changed kpop industry  #vip,0.0,netral
+418,2023-03-21,stayforever,Seventeen world tour is amazing! #CARAT,272,222,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+419,2023-11-20,reveluv,Twice performance is so powerful #ONCE,716,336,twice performance is so powerful  #once,0.3,positif
+420,2023-01-30,shawol,Stray Kids are dominating the stage! #STAY,872,315,stray kids are dominating the stage   #stay,0.0,netral
+421,2023-01-17,armylover,BLACKPINK just dropped a new MV 🔥 #KPOP,233,382,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+422,2023-07-15,shawol,"Enhypen growing so fast, proud! #ENGENE",512,479,enhypen growing so fast  proud   #engene,0.5,positif
+423,2023-11-08,midzy,I love BTS so much! KPOP forever 💜,446,25,i love bts so much  kpop forever,0.35,positif
+424,2023-10-21,exolegend,LOONA legends #Orbit,846,480,loona legends  #orbit,0.0,netral
+425,2023-08-02,armyforever,Idle rising so strong #Neverland,499,360,idle rising so strong  #neverland,0.43333333333333335,positif
+426,2023-11-16,midzy,Twice performance is so powerful #ONCE,628,121,twice performance is so powerful  #once,0.3,positif
+427,2023-11-20,blinkkpop,Itzy charisma is no joke #MIDZY,874,456,itzy charisma is no joke  #midzy,0.0,netral
+428,2023-05-05,neverland,SHINee forever kings #Shawol,633,441,shinee forever kings  #shawol,0.0,netral
+429,2023-12-16,stayforever,Itzy charisma is no joke #MIDZY,903,193,itzy charisma is no joke  #midzy,0.0,netral
+430,2023-12-22,shawol,Seventeen world tour is amazing! #CARAT,518,210,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+431,2023-11-01,oncefan,Itzy charisma is no joke #MIDZY,294,56,itzy charisma is no joke  #midzy,0.0,netral
+432,2023-06-05,stayforever,LOONA legends #Orbit,60,125,loona legends  #orbit,0.0,netral
+433,2023-03-11,midzy,BIGBANG changed KPOP industry #VIP,423,217,bigbang changed kpop industry  #vip,0.0,netral
+434,2023-02-26,shawol,BLACKPINK just dropped a new MV 🔥 #KPOP,974,133,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+435,2023-08-24,vipfan,Twice performance is so powerful #ONCE,537,102,twice performance is so powerful  #once,0.3,positif
+436,2023-01-09,moaarmy,I love BTS so much! KPOP forever 💜,953,194,i love bts so much  kpop forever,0.35,positif
+437,2023-12-05,neverland,Stray Kids are dominating the stage! #STAY,684,237,stray kids are dominating the stage   #stay,0.0,netral
+438,2023-03-19,vipfan,Red Velvet vocals are insane 🎶 #ReVeluv,800,357,red velvet vocals are insane    #reveluv,-0.5,negatif
+439,2023-10-19,neverland,BIGBANG changed KPOP industry #VIP,431,27,bigbang changed kpop industry  #vip,0.0,netral
+440,2023-02-07,midzy,I love BTS so much! KPOP forever 💜,572,325,i love bts so much  kpop forever,0.35,positif
+441,2023-01-20,armyblink,NCT comeback soon! Can't wait 😍,813,168,nct comeback soon  can t wait,0.0,netral
+442,2023-09-04,oncefan,BLACKPINK just dropped a new MV 🔥 #KPOP,57,391,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+443,2023-04-01,reveluv,Itzy charisma is no joke #MIDZY,430,306,itzy charisma is no joke  #midzy,0.0,netral
+444,2023-11-09,moaarmy,SHINee forever kings #Shawol,272,496,shinee forever kings  #shawol,0.0,netral
+445,2023-05-17,shawol,"Enhypen growing so fast, proud! #ENGENE",1000,88,enhypen growing so fast  proud   #engene,0.5,positif
+446,2023-07-07,shawol,Stray Kids are dominating the stage! #STAY,978,179,stray kids are dominating the stage   #stay,0.0,netral
+447,2023-09-10,buddyfan,Twice performance is so powerful #ONCE,955,197,twice performance is so powerful  #once,0.3,positif
+448,2023-12-20,blinkqueen,BLACKPINK in your area! 💖,58,495,blackpink in your area,0.0,netral
+449,2023-09-18,armyblink,LE SSERAFIM slaying stages #FEARLESS,942,69,le sserafim slaying stages  #fearless,0.0,netral
+450,2023-04-10,shawol,BLACKPINK in your area! 💖,331,43,blackpink in your area,0.0,netral
+451,2023-05-17,neverland,GFriend songs always touch my heart 💕,871,87,gfriend songs always touch my heart,0.0,netral
+452,2023-05-05,armyblink,TXT are the future of KPOP 💙,677,471,txt are the future of kpop,0.0,netral
+453,2023-04-12,shawol,Red Velvet vocals are insane 🎶 #ReVeluv,333,165,red velvet vocals are insane    #reveluv,-0.5,negatif
+454,2023-03-11,orbitluv,BLACKPINK just dropped a new MV 🔥 #KPOP,193,467,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+455,2023-01-22,fearless,Seventeen world tour is amazing! #CARAT,221,41,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+456,2023-03-08,caratdiamond,Seventeen world tour is amazing! #CARAT,627,136,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+457,2023-05-19,buddyfan,GFriend songs always touch my heart 💕,343,104,gfriend songs always touch my heart,0.0,netral
+458,2023-07-27,neverland,Stray Kids are dominating the stage! #STAY,504,233,stray kids are dominating the stage   #stay,0.0,netral
+459,2023-11-14,armylover,Idle rising so strong #Neverland,549,438,idle rising so strong  #neverland,0.43333333333333335,positif
+460,2023-01-28,armylover,BLACKPINK just dropped a new MV 🔥 #KPOP,881,155,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+461,2023-01-18,engene,LOONA legends #Orbit,349,385,loona legends  #orbit,0.0,netral
+462,2023-12-05,oncefan,I love BTS so much! KPOP forever 💜,404,405,i love bts so much  kpop forever,0.35,positif
+463,2023-05-01,neverland,BTS x BLACKPINK collab dream? 😱,659,400,bts x blackpink collab dream,0.0,netral
+464,2023-12-10,engene,Idle rising so strong #Neverland,620,167,idle rising so strong  #neverland,0.43333333333333335,positif
+465,2023-11-04,moaarmy,Idle rising so strong #Neverland,729,256,idle rising so strong  #neverland,0.43333333333333335,positif
+466,2023-03-21,fearless,BTS x BLACKPINK collab dream? 😱,203,256,bts x blackpink collab dream,0.0,netral
+467,2023-09-08,stayforever,Red Velvet vocals are insane 🎶 #ReVeluv,270,51,red velvet vocals are insane    #reveluv,-0.5,negatif
+468,2023-05-01,neverland,LOONA legends #Orbit,405,172,loona legends  #orbit,0.0,netral
+469,2023-07-02,armylover,BLACKPINK just dropped a new MV 🔥 #KPOP,722,81,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+470,2023-06-24,fearless,Itzy charisma is no joke #MIDZY,320,430,itzy charisma is no joke  #midzy,0.0,netral
+471,2023-09-03,orbitluv,SHINee forever kings #Shawol,470,333,shinee forever kings  #shawol,0.0,netral
+472,2023-10-23,oncefan,LOONA legends #Orbit,435,249,loona legends  #orbit,0.0,netral
+473,2023-12-14,caratdiamond,BIGBANG changed KPOP industry #VIP,823,349,bigbang changed kpop industry  #vip,0.0,netral
+474,2023-02-06,oncefan,"Enhypen growing so fast, proud! #ENGENE",790,137,enhypen growing so fast  proud   #engene,0.5,positif
+475,2023-10-17,armylover,BLACKPINK in your area! 💖,559,122,blackpink in your area,0.0,netral
+476,2023-08-24,orbitluv,Itzy charisma is no joke #MIDZY,990,36,itzy charisma is no joke  #midzy,0.0,netral
+477,2023-04-23,moaarmy,GFriend songs always touch my heart 💕,118,229,gfriend songs always touch my heart,0.0,netral
+478,2023-11-19,armyforever,I love BTS so much! KPOP forever 💜,804,369,i love bts so much  kpop forever,0.35,positif
+479,2023-04-06,engene,Red Velvet vocals are insane 🎶 #ReVeluv,820,478,red velvet vocals are insane    #reveluv,-0.5,negatif
+480,2023-12-15,fearless,Stray Kids are dominating the stage! #STAY,241,496,stray kids are dominating the stage   #stay,0.0,netral
+481,2023-07-11,midzy,GFriend songs always touch my heart 💕,223,147,gfriend songs always touch my heart,0.0,netral
+482,2023-06-18,fearless,LE SSERAFIM slaying stages #FEARLESS,533,285,le sserafim slaying stages  #fearless,0.0,netral
+483,2023-08-22,reveluv,BLACKPINK just dropped a new MV 🔥 #KPOP,455,421,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+484,2023-05-05,armyforever,TXT are the future of KPOP 💙,712,231,txt are the future of kpop,0.0,netral
+485,2023-12-30,orbitluv,EXO still kings of KPOP 🔥,411,187,exo still kings of kpop,0.0,netral
+486,2023-08-07,stayforever,NCT comeback soon! Can't wait 😍,622,295,nct comeback soon  can t wait,0.0,netral
+487,2023-02-08,blinkkpop,Stray Kids are dominating the stage! #STAY,154,470,stray kids are dominating the stage   #stay,0.0,netral
+488,2023-04-25,blinkkpop,BLACKPINK in your area! 💖,306,287,blackpink in your area,0.0,netral
+489,2023-11-09,orbitluv,BTS paved the way #Army,51,149,bts paved the way  #army,0.0,netral
+490,2023-12-23,armyforever,Seventeen world tour is amazing! #CARAT,195,451,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+491,2023-06-25,oncefan,EXO still kings of KPOP 🔥,459,195,exo still kings of kpop,0.0,netral
+492,2023-11-12,armylover,BLACKPINK in your area! 💖,815,117,blackpink in your area,0.0,netral
+493,2023-04-30,vipfan,Stray Kids are dominating the stage! #STAY,857,267,stray kids are dominating the stage   #stay,0.0,netral
+494,2023-05-16,caratdiamond,SHINee forever kings #Shawol,642,401,shinee forever kings  #shawol,0.0,netral
+495,2023-10-09,caratdiamond,Red Velvet vocals are insane 🎶 #ReVeluv,183,167,red velvet vocals are insane    #reveluv,-0.5,negatif
+496,2023-12-25,engene,EXO still kings of KPOP 🔥,656,18,exo still kings of kpop,0.0,netral
+497,2023-03-22,nctzenlife,Red Velvet vocals are insane 🎶 #ReVeluv,450,262,red velvet vocals are insane    #reveluv,-0.5,negatif
+498,2023-10-24,orbitluv,Stray Kids are dominating the stage! #STAY,986,497,stray kids are dominating the stage   #stay,0.0,netral
+499,2023-01-05,caratdiamond,BTS paved the way #Army,930,439,bts paved the way  #army,0.0,netral
+500,2023-10-31,blinkkpop,SHINee forever kings #Shawol,163,168,shinee forever kings  #shawol,0.0,netral
+501,2023-07-14,blinkqueen,BLACKPINK just dropped a new MV 🔥 #KPOP,634,378,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+502,2023-03-24,stayforever,Itzy charisma is no joke #MIDZY,589,466,itzy charisma is no joke  #midzy,0.0,netral
+503,2023-10-07,fearless,BTS x BLACKPINK collab dream? 😱,404,232,bts x blackpink collab dream,0.0,netral
+504,2023-08-03,armyblink,SHINee forever kings #Shawol,701,466,shinee forever kings  #shawol,0.0,netral
+505,2023-03-18,orbitluv,BIGBANG changed KPOP industry #VIP,190,391,bigbang changed kpop industry  #vip,0.0,netral
+506,2023-12-11,fearless,BTS x BLACKPINK collab dream? 😱,788,329,bts x blackpink collab dream,0.0,netral
+507,2023-12-30,blinkqueen,Twice performance is so powerful #ONCE,376,132,twice performance is so powerful  #once,0.3,positif
+508,2023-10-22,midzy,BLACKPINK in your area! 💖,938,409,blackpink in your area,0.0,netral
+509,2023-04-13,armylover,EXO still kings of KPOP 🔥,279,166,exo still kings of kpop,0.0,netral
+510,2023-04-11,neverland,LOONA legends #Orbit,502,427,loona legends  #orbit,0.0,netral
+511,2023-03-14,blinkqueen,LOONA legends #Orbit,737,349,loona legends  #orbit,0.0,netral
+512,2023-07-18,nctzenlife,BTS paved the way #Army,646,468,bts paved the way  #army,0.0,netral
+513,2023-06-17,fearless,Idle rising so strong #Neverland,158,60,idle rising so strong  #neverland,0.43333333333333335,positif
+514,2023-12-27,shawol,"Enhypen growing so fast, proud! #ENGENE",469,122,enhypen growing so fast  proud   #engene,0.5,positif
+515,2023-08-08,armyblink,BLACKPINK in your area! 💖,482,135,blackpink in your area,0.0,netral
+516,2023-08-29,midzy,LE SSERAFIM slaying stages #FEARLESS,127,232,le sserafim slaying stages  #fearless,0.0,netral
+517,2023-12-30,exolegend,Red Velvet vocals are insane 🎶 #ReVeluv,980,288,red velvet vocals are insane    #reveluv,-0.5,negatif
+518,2023-12-29,shawol,BIGBANG changed KPOP industry #VIP,208,115,bigbang changed kpop industry  #vip,0.0,netral
+519,2023-03-18,fearless,BLACKPINK just dropped a new MV 🔥 #KPOP,766,207,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+520,2023-05-07,nctzenlife,Twice performance is so powerful #ONCE,265,493,twice performance is so powerful  #once,0.3,positif
+521,2023-05-11,nctzenlife,BLACKPINK in your area! 💖,772,200,blackpink in your area,0.0,netral
+522,2023-05-18,moaarmy,TXT are the future of KPOP 💙,877,499,txt are the future of kpop,0.0,netral
+523,2023-07-30,armyforever,BTS paved the way #Army,140,152,bts paved the way  #army,0.0,netral
+524,2023-03-19,buddyfan,BTS paved the way #Army,228,151,bts paved the way  #army,0.0,netral
+525,2023-01-18,oncefan,BIGBANG changed KPOP industry #VIP,934,360,bigbang changed kpop industry  #vip,0.0,netral
+526,2023-09-13,engene,Stray Kids are dominating the stage! #STAY,444,115,stray kids are dominating the stage   #stay,0.0,netral
+527,2023-12-17,oncefan,LE SSERAFIM slaying stages #FEARLESS,819,269,le sserafim slaying stages  #fearless,0.0,netral
+528,2023-08-22,reveluv,Itzy charisma is no joke #MIDZY,703,366,itzy charisma is no joke  #midzy,0.0,netral
+529,2023-11-09,stayforever,EXO still kings of KPOP 🔥,924,208,exo still kings of kpop,0.0,netral
+530,2023-04-13,armylover,I love BTS so much! KPOP forever 💜,454,173,i love bts so much  kpop forever,0.35,positif
+531,2023-07-07,fearless,Seventeen world tour is amazing! #CARAT,840,388,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+532,2023-09-02,nctzenlife,Red Velvet vocals are insane 🎶 #ReVeluv,264,124,red velvet vocals are insane    #reveluv,-0.5,negatif
+533,2023-04-16,engene,LE SSERAFIM slaying stages #FEARLESS,476,63,le sserafim slaying stages  #fearless,0.0,netral
+534,2023-06-06,exolegend,Seventeen world tour is amazing! #CARAT,220,213,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+535,2023-05-16,armyblink,BLACKPINK just dropped a new MV 🔥 #KPOP,360,231,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+536,2023-10-22,armylover,Itzy charisma is no joke #MIDZY,792,135,itzy charisma is no joke  #midzy,0.0,netral
+537,2023-07-27,nctzenlife,BLACKPINK just dropped a new MV 🔥 #KPOP,433,433,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+538,2023-08-09,armylover,NCT comeback soon! Can't wait 😍,718,79,nct comeback soon  can t wait,0.0,netral
+539,2023-08-30,fearless,Stray Kids are dominating the stage! #STAY,711,109,stray kids are dominating the stage   #stay,0.0,netral
+540,2023-01-27,moaarmy,NCT comeback soon! Can't wait 😍,771,29,nct comeback soon  can t wait,0.0,netral
+541,2023-04-28,shawol,LE SSERAFIM slaying stages #FEARLESS,185,145,le sserafim slaying stages  #fearless,0.0,netral
+542,2023-04-06,caratdiamond,Red Velvet vocals are insane 🎶 #ReVeluv,963,320,red velvet vocals are insane    #reveluv,-0.5,negatif
+543,2023-09-13,armyblink,SHINee forever kings #Shawol,202,313,shinee forever kings  #shawol,0.0,netral
+544,2023-08-06,armyforever,BLACKPINK just dropped a new MV 🔥 #KPOP,783,325,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+545,2023-05-27,engene,Seventeen world tour is amazing! #CARAT,465,243,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+546,2023-05-22,armyforever,BIGBANG changed KPOP industry #VIP,984,473,bigbang changed kpop industry  #vip,0.0,netral
+547,2023-05-28,armyforever,Seventeen world tour is amazing! #CARAT,317,28,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+548,2023-04-05,vipfan,Itzy charisma is no joke #MIDZY,846,88,itzy charisma is no joke  #midzy,0.0,netral
+549,2023-07-30,engene,Itzy charisma is no joke #MIDZY,996,161,itzy charisma is no joke  #midzy,0.0,netral
+550,2023-02-07,armyblink,NCT comeback soon! Can't wait 😍,175,116,nct comeback soon  can t wait,0.0,netral
+551,2023-06-04,blinkqueen,I love BTS so much! KPOP forever 💜,831,25,i love bts so much  kpop forever,0.35,positif
+552,2023-09-14,reveluv,Itzy charisma is no joke #MIDZY,642,438,itzy charisma is no joke  #midzy,0.0,netral
+553,2023-04-01,reveluv,BTS x BLACKPINK collab dream? 😱,473,353,bts x blackpink collab dream,0.0,netral
+554,2023-06-16,reveluv,TXT are the future of KPOP 💙,414,299,txt are the future of kpop,0.0,netral
+555,2023-12-18,armyblink,Red Velvet vocals are insane 🎶 #ReVeluv,529,196,red velvet vocals are insane    #reveluv,-0.5,negatif
+556,2023-11-14,buddyfan,BLACKPINK in your area! 💖,186,232,blackpink in your area,0.0,netral
+557,2023-09-16,vipfan,Twice performance is so powerful #ONCE,91,330,twice performance is so powerful  #once,0.3,positif
+558,2023-11-23,blinkkpop,Itzy charisma is no joke #MIDZY,50,196,itzy charisma is no joke  #midzy,0.0,netral
+559,2023-03-08,armylover,Stray Kids are dominating the stage! #STAY,974,344,stray kids are dominating the stage   #stay,0.0,netral
+560,2023-04-10,blinkkpop,Idle rising so strong #Neverland,471,263,idle rising so strong  #neverland,0.43333333333333335,positif
+561,2023-11-18,buddyfan,Twice performance is so powerful #ONCE,156,276,twice performance is so powerful  #once,0.3,positif
+562,2023-10-24,exolegend,SHINee forever kings #Shawol,326,207,shinee forever kings  #shawol,0.0,netral
+563,2023-04-17,orbitluv,TXT are the future of KPOP 💙,948,450,txt are the future of kpop,0.0,netral
+564,2023-07-24,vipfan,Itzy charisma is no joke #MIDZY,798,155,itzy charisma is no joke  #midzy,0.0,netral
+565,2023-04-09,engene,Red Velvet vocals are insane 🎶 #ReVeluv,721,153,red velvet vocals are insane    #reveluv,-0.5,negatif
+566,2023-06-23,orbitluv,LE SSERAFIM slaying stages #FEARLESS,332,192,le sserafim slaying stages  #fearless,0.0,netral
+567,2023-09-28,moaarmy,Stray Kids are dominating the stage! #STAY,943,43,stray kids are dominating the stage   #stay,0.0,netral
+568,2023-11-12,exolegend,SHINee forever kings #Shawol,705,418,shinee forever kings  #shawol,0.0,netral
+569,2023-12-20,caratdiamond,Itzy charisma is no joke #MIDZY,161,404,itzy charisma is no joke  #midzy,0.0,netral
+570,2023-04-02,blinkkpop,NCT comeback soon! Can't wait 😍,726,204,nct comeback soon  can t wait,0.0,netral
+571,2023-09-25,vipfan,GFriend songs always touch my heart 💕,903,53,gfriend songs always touch my heart,0.0,netral
+572,2023-10-04,nctzenlife,Twice performance is so powerful #ONCE,462,331,twice performance is so powerful  #once,0.3,positif
+573,2023-04-28,stayforever,LE SSERAFIM slaying stages #FEARLESS,678,426,le sserafim slaying stages  #fearless,0.0,netral
+574,2023-09-17,orbitluv,BTS paved the way #Army,998,276,bts paved the way  #army,0.0,netral
+575,2023-09-02,orbitluv,Red Velvet vocals are insane 🎶 #ReVeluv,459,16,red velvet vocals are insane    #reveluv,-0.5,negatif
+576,2023-01-15,blinkqueen,Itzy charisma is no joke #MIDZY,347,79,itzy charisma is no joke  #midzy,0.0,netral
+577,2023-09-21,vipfan,LE SSERAFIM slaying stages #FEARLESS,112,295,le sserafim slaying stages  #fearless,0.0,netral
+578,2023-11-05,fearless,Itzy charisma is no joke #MIDZY,923,191,itzy charisma is no joke  #midzy,0.0,netral
+579,2023-07-15,fearless,I love BTS so much! KPOP forever 💜,810,193,i love bts so much  kpop forever,0.35,positif
+580,2023-02-08,armyforever,"Enhypen growing so fast, proud! #ENGENE",215,184,enhypen growing so fast  proud   #engene,0.5,positif
+581,2023-01-05,orbitluv,GFriend songs always touch my heart 💕,452,34,gfriend songs always touch my heart,0.0,netral
+582,2023-12-18,engene,TXT are the future of KPOP 💙,996,360,txt are the future of kpop,0.0,netral
+583,2023-06-11,orbitluv,LOONA legends #Orbit,604,493,loona legends  #orbit,0.0,netral
+584,2023-02-14,buddyfan,BIGBANG changed KPOP industry #VIP,641,151,bigbang changed kpop industry  #vip,0.0,netral
+585,2023-11-17,armyforever,TXT are the future of KPOP 💙,923,246,txt are the future of kpop,0.0,netral
+586,2023-11-18,nctzenlife,Seventeen world tour is amazing! #CARAT,365,354,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+587,2023-01-28,engene,Seventeen world tour is amazing! #CARAT,59,464,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+588,2023-04-11,oncefan,BTS x BLACKPINK collab dream? 😱,240,369,bts x blackpink collab dream,0.0,netral
+589,2023-05-31,neverland,BIGBANG changed KPOP industry #VIP,912,79,bigbang changed kpop industry  #vip,0.0,netral
+590,2023-05-30,engene,Red Velvet vocals are insane 🎶 #ReVeluv,973,335,red velvet vocals are insane    #reveluv,-0.5,negatif
+591,2023-03-28,fearless,I love BTS so much! KPOP forever 💜,661,298,i love bts so much  kpop forever,0.35,positif
+592,2023-10-02,neverland,BLACKPINK in your area! 💖,550,29,blackpink in your area,0.0,netral
+593,2023-11-24,caratdiamond,Red Velvet vocals are insane 🎶 #ReVeluv,947,225,red velvet vocals are insane    #reveluv,-0.5,negatif
+594,2023-09-02,armylover,TXT are the future of KPOP 💙,370,411,txt are the future of kpop,0.0,netral
+595,2023-01-18,blinkqueen,BIGBANG changed KPOP industry #VIP,946,299,bigbang changed kpop industry  #vip,0.0,netral
+596,2023-02-22,vipfan,EXO still kings of KPOP 🔥,429,444,exo still kings of kpop,0.0,netral
+597,2023-02-06,vipfan,BIGBANG changed KPOP industry #VIP,260,341,bigbang changed kpop industry  #vip,0.0,netral
+598,2023-06-25,buddyfan,BTS paved the way #Army,835,71,bts paved the way  #army,0.0,netral
+599,2023-06-26,blinkkpop,Itzy charisma is no joke #MIDZY,600,117,itzy charisma is no joke  #midzy,0.0,netral
+600,2023-05-30,exolegend,Itzy charisma is no joke #MIDZY,519,487,itzy charisma is no joke  #midzy,0.0,netral
+601,2023-01-22,buddyfan,BLACKPINK in your area! 💖,54,43,blackpink in your area,0.0,netral
+602,2023-05-27,nctzenlife,Twice performance is so powerful #ONCE,107,174,twice performance is so powerful  #once,0.3,positif
+603,2023-06-16,buddyfan,TXT are the future of KPOP 💙,381,306,txt are the future of kpop,0.0,netral
+604,2023-11-19,neverland,"Enhypen growing so fast, proud! #ENGENE",939,264,enhypen growing so fast  proud   #engene,0.5,positif
+605,2023-08-01,armyforever,LOONA legends #Orbit,289,74,loona legends  #orbit,0.0,netral
+606,2023-11-23,shawol,Itzy charisma is no joke #MIDZY,202,360,itzy charisma is no joke  #midzy,0.0,netral
+607,2023-01-16,neverland,GFriend songs always touch my heart 💕,494,355,gfriend songs always touch my heart,0.0,netral
+608,2023-09-14,buddyfan,Seventeen world tour is amazing! #CARAT,229,84,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+609,2023-03-18,reveluv,Stray Kids are dominating the stage! #STAY,78,167,stray kids are dominating the stage   #stay,0.0,netral
+610,2023-06-20,blinkkpop,Idle rising so strong #Neverland,257,443,idle rising so strong  #neverland,0.43333333333333335,positif
+611,2023-07-29,blinkqueen,"Enhypen growing so fast, proud! #ENGENE",885,488,enhypen growing so fast  proud   #engene,0.5,positif
+612,2023-04-05,exolegend,LE SSERAFIM slaying stages #FEARLESS,913,69,le sserafim slaying stages  #fearless,0.0,netral
+613,2023-06-07,exolegend,Red Velvet vocals are insane 🎶 #ReVeluv,866,99,red velvet vocals are insane    #reveluv,-0.5,negatif
+614,2023-02-13,stayforever,Idle rising so strong #Neverland,231,365,idle rising so strong  #neverland,0.43333333333333335,positif
+615,2023-05-08,blinkqueen,NCT comeback soon! Can't wait 😍,903,311,nct comeback soon  can t wait,0.0,netral
+616,2023-12-13,caratdiamond,SHINee forever kings #Shawol,530,220,shinee forever kings  #shawol,0.0,netral
+617,2023-04-08,orbitluv,LOONA legends #Orbit,836,86,loona legends  #orbit,0.0,netral
+618,2023-09-26,moaarmy,GFriend songs always touch my heart 💕,206,472,gfriend songs always touch my heart,0.0,netral
+619,2023-06-07,moaarmy,Idle rising so strong #Neverland,527,50,idle rising so strong  #neverland,0.43333333333333335,positif
+620,2023-09-29,engene,LOONA legends #Orbit,817,266,loona legends  #orbit,0.0,netral
+621,2023-08-11,shawol,Idle rising so strong #Neverland,348,478,idle rising so strong  #neverland,0.43333333333333335,positif
+622,2023-08-19,shawol,"Enhypen growing so fast, proud! #ENGENE",992,183,enhypen growing so fast  proud   #engene,0.5,positif
+623,2023-06-30,exolegend,Itzy charisma is no joke #MIDZY,389,30,itzy charisma is no joke  #midzy,0.0,netral
+624,2023-11-29,armyforever,BLACKPINK in your area! 💖,631,485,blackpink in your area,0.0,netral
+625,2023-05-08,stayforever,Itzy charisma is no joke #MIDZY,677,486,itzy charisma is no joke  #midzy,0.0,netral
+626,2023-02-20,exolegend,BLACKPINK in your area! 💖,314,137,blackpink in your area,0.0,netral
+627,2023-12-03,nctzenlife,Idle rising so strong #Neverland,498,316,idle rising so strong  #neverland,0.43333333333333335,positif
+628,2023-02-28,midzy,LE SSERAFIM slaying stages #FEARLESS,482,10,le sserafim slaying stages  #fearless,0.0,netral
+629,2023-10-13,armyforever,TXT are the future of KPOP 💙,585,398,txt are the future of kpop,0.0,netral
+630,2023-02-08,neverland,EXO still kings of KPOP 🔥,638,386,exo still kings of kpop,0.0,netral
+631,2023-11-15,nctzenlife,BTS x BLACKPINK collab dream? 😱,274,124,bts x blackpink collab dream,0.0,netral
+632,2023-11-17,engene,LE SSERAFIM slaying stages #FEARLESS,782,474,le sserafim slaying stages  #fearless,0.0,netral
+633,2023-10-11,shawol,Red Velvet vocals are insane 🎶 #ReVeluv,395,212,red velvet vocals are insane    #reveluv,-0.5,negatif
+634,2023-05-12,armyforever,EXO still kings of KPOP 🔥,760,103,exo still kings of kpop,0.0,netral
+635,2023-12-07,orbitluv,EXO still kings of KPOP 🔥,486,93,exo still kings of kpop,0.0,netral
+636,2023-06-12,shawol,I love BTS so much! KPOP forever 💜,830,185,i love bts so much  kpop forever,0.35,positif
+637,2023-08-17,armyblink,SHINee forever kings #Shawol,603,491,shinee forever kings  #shawol,0.0,netral
+638,2023-01-06,caratdiamond,Itzy charisma is no joke #MIDZY,287,28,itzy charisma is no joke  #midzy,0.0,netral
+639,2023-04-12,armyblink,LE SSERAFIM slaying stages #FEARLESS,214,470,le sserafim slaying stages  #fearless,0.0,netral
+640,2023-04-29,armyforever,I love BTS so much! KPOP forever 💜,202,461,i love bts so much  kpop forever,0.35,positif
+641,2023-04-27,blinkkpop,BIGBANG changed KPOP industry #VIP,410,253,bigbang changed kpop industry  #vip,0.0,netral
+642,2023-07-27,armyforever,LE SSERAFIM slaying stages #FEARLESS,694,149,le sserafim slaying stages  #fearless,0.0,netral
+643,2023-10-24,blinkkpop,GFriend songs always touch my heart 💕,469,144,gfriend songs always touch my heart,0.0,netral
+644,2023-02-19,armylover,Red Velvet vocals are insane 🎶 #ReVeluv,620,67,red velvet vocals are insane    #reveluv,-0.5,negatif
+645,2023-09-29,shawol,TXT are the future of KPOP 💙,62,194,txt are the future of kpop,0.0,netral
+646,2023-04-25,neverland,EXO still kings of KPOP 🔥,374,304,exo still kings of kpop,0.0,netral
+647,2023-10-14,armyforever,BLACKPINK in your area! 💖,486,298,blackpink in your area,0.0,netral
+648,2023-09-08,armylover,Itzy charisma is no joke #MIDZY,146,498,itzy charisma is no joke  #midzy,0.0,netral
+649,2023-10-07,reveluv,Itzy charisma is no joke #MIDZY,841,245,itzy charisma is no joke  #midzy,0.0,netral
+650,2023-05-03,blinkqueen,SHINee forever kings #Shawol,314,264,shinee forever kings  #shawol,0.0,netral
+651,2023-03-13,armyblink,Itzy charisma is no joke #MIDZY,490,233,itzy charisma is no joke  #midzy,0.0,netral
+652,2023-05-03,exolegend,NCT comeback soon! Can't wait 😍,270,20,nct comeback soon  can t wait,0.0,netral
+653,2023-02-21,fearless,BTS x BLACKPINK collab dream? 😱,198,266,bts x blackpink collab dream,0.0,netral
+654,2023-08-02,shawol,LE SSERAFIM slaying stages #FEARLESS,781,185,le sserafim slaying stages  #fearless,0.0,netral
+655,2023-05-01,fearless,Itzy charisma is no joke #MIDZY,652,386,itzy charisma is no joke  #midzy,0.0,netral
+656,2023-05-21,oncefan,BLACKPINK just dropped a new MV 🔥 #KPOP,233,149,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+657,2023-07-10,blinkqueen,Twice performance is so powerful #ONCE,851,62,twice performance is so powerful  #once,0.3,positif
+658,2023-07-09,neverland,BTS x BLACKPINK collab dream? 😱,377,40,bts x blackpink collab dream,0.0,netral
+659,2023-07-13,nctzenlife,GFriend songs always touch my heart 💕,492,212,gfriend songs always touch my heart,0.0,netral
+660,2023-12-28,orbitluv,BIGBANG changed KPOP industry #VIP,705,397,bigbang changed kpop industry  #vip,0.0,netral
+661,2023-09-20,exolegend,Itzy charisma is no joke #MIDZY,239,214,itzy charisma is no joke  #midzy,0.0,netral
+662,2023-09-20,shawol,Idle rising so strong #Neverland,192,36,idle rising so strong  #neverland,0.43333333333333335,positif
+663,2023-02-04,armylover,Stray Kids are dominating the stage! #STAY,789,286,stray kids are dominating the stage   #stay,0.0,netral
+664,2023-05-28,engene,Red Velvet vocals are insane 🎶 #ReVeluv,884,178,red velvet vocals are insane    #reveluv,-0.5,negatif
+665,2023-01-21,reveluv,TXT are the future of KPOP 💙,699,407,txt are the future of kpop,0.0,netral
+666,2023-02-20,buddyfan,Seventeen world tour is amazing! #CARAT,916,201,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+667,2023-06-17,buddyfan,BTS paved the way #Army,190,271,bts paved the way  #army,0.0,netral
+668,2023-05-17,exolegend,BLACKPINK in your area! 💖,469,329,blackpink in your area,0.0,netral
+669,2023-10-29,fearless,BIGBANG changed KPOP industry #VIP,195,389,bigbang changed kpop industry  #vip,0.0,netral
+670,2023-10-31,armylover,NCT comeback soon! Can't wait 😍,718,450,nct comeback soon  can t wait,0.0,netral
+671,2023-09-13,armylover,Itzy charisma is no joke #MIDZY,341,209,itzy charisma is no joke  #midzy,0.0,netral
+672,2023-06-12,blinkkpop,Seventeen world tour is amazing! #CARAT,871,349,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+673,2023-10-31,engene,GFriend songs always touch my heart 💕,849,231,gfriend songs always touch my heart,0.0,netral
+674,2023-02-09,orbitluv,Idle rising so strong #Neverland,585,76,idle rising so strong  #neverland,0.43333333333333335,positif
+675,2023-07-03,blinkqueen,Idle rising so strong #Neverland,338,29,idle rising so strong  #neverland,0.43333333333333335,positif
+676,2023-12-14,reveluv,Seventeen world tour is amazing! #CARAT,430,265,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+677,2023-07-15,orbitluv,SHINee forever kings #Shawol,550,119,shinee forever kings  #shawol,0.0,netral
+678,2023-02-06,armylover,BIGBANG changed KPOP industry #VIP,861,38,bigbang changed kpop industry  #vip,0.0,netral
+679,2023-07-26,moaarmy,BTS paved the way #Army,926,191,bts paved the way  #army,0.0,netral
+680,2023-10-24,armyblink,LOONA legends #Orbit,287,158,loona legends  #orbit,0.0,netral
+681,2023-12-02,armylover,GFriend songs always touch my heart 💕,573,258,gfriend songs always touch my heart,0.0,netral
+682,2023-11-03,caratdiamond,BTS x BLACKPINK collab dream? 😱,208,223,bts x blackpink collab dream,0.0,netral
+683,2023-05-08,reveluv,Itzy charisma is no joke #MIDZY,350,260,itzy charisma is no joke  #midzy,0.0,netral
+684,2023-01-18,blinkkpop,BLACKPINK in your area! 💖,82,156,blackpink in your area,0.0,netral
+685,2023-05-23,blinkkpop,Twice performance is so powerful #ONCE,800,180,twice performance is so powerful  #once,0.3,positif
+686,2023-06-09,oncefan,BLACKPINK in your area! 💖,836,299,blackpink in your area,0.0,netral
+687,2023-04-07,armylover,I love BTS so much! KPOP forever 💜,485,342,i love bts so much  kpop forever,0.35,positif
+688,2023-10-15,moaarmy,SHINee forever kings #Shawol,962,279,shinee forever kings  #shawol,0.0,netral
+689,2023-01-30,armyblink,LE SSERAFIM slaying stages #FEARLESS,171,53,le sserafim slaying stages  #fearless,0.0,netral
+690,2023-02-04,blinkqueen,Stray Kids are dominating the stage! #STAY,80,223,stray kids are dominating the stage   #stay,0.0,netral
+691,2023-04-12,oncefan,Twice performance is so powerful #ONCE,433,113,twice performance is so powerful  #once,0.3,positif
+692,2023-08-21,reveluv,TXT are the future of KPOP 💙,397,76,txt are the future of kpop,0.0,netral
+693,2023-11-28,blinkkpop,Stray Kids are dominating the stage! #STAY,761,186,stray kids are dominating the stage   #stay,0.0,netral
+694,2023-05-26,armyforever,Itzy charisma is no joke #MIDZY,177,187,itzy charisma is no joke  #midzy,0.0,netral
+695,2023-08-26,buddyfan,BLACKPINK just dropped a new MV 🔥 #KPOP,800,399,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+696,2023-04-01,armyblink,BLACKPINK in your area! 💖,86,91,blackpink in your area,0.0,netral
+697,2023-06-21,midzy,EXO still kings of KPOP 🔥,847,266,exo still kings of kpop,0.0,netral
+698,2023-11-04,midzy,Idle rising so strong #Neverland,850,475,idle rising so strong  #neverland,0.43333333333333335,positif
+699,2023-09-09,blinkkpop,BTS paved the way #Army,723,494,bts paved the way  #army,0.0,netral
+700,2023-09-20,caratdiamond,BIGBANG changed KPOP industry #VIP,483,330,bigbang changed kpop industry  #vip,0.0,netral
+701,2023-10-23,fearless,EXO still kings of KPOP 🔥,313,69,exo still kings of kpop,0.0,netral
+702,2023-10-19,exolegend,I love BTS so much! KPOP forever 💜,961,118,i love bts so much  kpop forever,0.35,positif
+703,2023-08-23,engene,LOONA legends #Orbit,463,311,loona legends  #orbit,0.0,netral
+704,2023-11-26,nctzenlife,EXO still kings of KPOP 🔥,106,320,exo still kings of kpop,0.0,netral
+705,2023-08-04,shawol,I love BTS so much! KPOP forever 💜,236,201,i love bts so much  kpop forever,0.35,positif
+706,2023-04-23,engene,BTS x BLACKPINK collab dream? 😱,329,458,bts x blackpink collab dream,0.0,netral
+707,2023-09-20,armylover,TXT are the future of KPOP 💙,312,383,txt are the future of kpop,0.0,netral
+708,2023-06-09,blinkkpop,BTS paved the way #Army,281,254,bts paved the way  #army,0.0,netral
+709,2023-01-24,shawol,LOONA legends #Orbit,909,450,loona legends  #orbit,0.0,netral
+710,2023-11-22,armylover,Itzy charisma is no joke #MIDZY,237,205,itzy charisma is no joke  #midzy,0.0,netral
+711,2023-08-18,engene,Stray Kids are dominating the stage! #STAY,323,454,stray kids are dominating the stage   #stay,0.0,netral
+712,2023-05-29,buddyfan,Stray Kids are dominating the stage! #STAY,102,168,stray kids are dominating the stage   #stay,0.0,netral
+713,2023-05-17,oncefan,TXT are the future of KPOP 💙,251,84,txt are the future of kpop,0.0,netral
+714,2023-11-16,vipfan,BTS paved the way #Army,252,58,bts paved the way  #army,0.0,netral
+715,2023-06-23,caratdiamond,Stray Kids are dominating the stage! #STAY,562,124,stray kids are dominating the stage   #stay,0.0,netral
+716,2023-08-26,armyforever,Red Velvet vocals are insane 🎶 #ReVeluv,209,75,red velvet vocals are insane    #reveluv,-0.5,negatif
+717,2023-08-24,armylover,EXO still kings of KPOP 🔥,526,412,exo still kings of kpop,0.0,netral
+718,2023-01-06,stayforever,SHINee forever kings #Shawol,479,41,shinee forever kings  #shawol,0.0,netral
+719,2023-03-14,blinkkpop,BLACKPINK just dropped a new MV 🔥 #KPOP,219,18,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+720,2023-08-05,vipfan,Twice performance is so powerful #ONCE,521,493,twice performance is so powerful  #once,0.3,positif
+721,2023-04-17,vipfan,BLACKPINK just dropped a new MV 🔥 #KPOP,638,458,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+722,2023-02-15,buddyfan,BIGBANG changed KPOP industry #VIP,572,316,bigbang changed kpop industry  #vip,0.0,netral
+723,2023-07-03,armyforever,NCT comeback soon! Can't wait 😍,145,293,nct comeback soon  can t wait,0.0,netral
+724,2023-10-13,fearless,Itzy charisma is no joke #MIDZY,434,439,itzy charisma is no joke  #midzy,0.0,netral
+725,2023-03-21,reveluv,Stray Kids are dominating the stage! #STAY,820,68,stray kids are dominating the stage   #stay,0.0,netral
+726,2023-02-28,midzy,Stray Kids are dominating the stage! #STAY,984,158,stray kids are dominating the stage   #stay,0.0,netral
+727,2023-04-17,blinkqueen,GFriend songs always touch my heart 💕,158,167,gfriend songs always touch my heart,0.0,netral
+728,2023-08-11,fearless,LE SSERAFIM slaying stages #FEARLESS,730,28,le sserafim slaying stages  #fearless,0.0,netral
+729,2023-06-23,oncefan,BTS paved the way #Army,950,121,bts paved the way  #army,0.0,netral
+730,2023-01-15,moaarmy,I love BTS so much! KPOP forever 💜,185,297,i love bts so much  kpop forever,0.35,positif
+731,2023-06-27,fearless,I love BTS so much! KPOP forever 💜,541,357,i love bts so much  kpop forever,0.35,positif
+732,2023-07-07,moaarmy,BLACKPINK just dropped a new MV 🔥 #KPOP,847,288,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+733,2023-02-02,armyblink,"Enhypen growing so fast, proud! #ENGENE",269,467,enhypen growing so fast  proud   #engene,0.5,positif
+734,2023-04-02,vipfan,Red Velvet vocals are insane 🎶 #ReVeluv,438,58,red velvet vocals are insane    #reveluv,-0.5,negatif
+735,2023-08-16,vipfan,BTS paved the way #Army,981,275,bts paved the way  #army,0.0,netral
+736,2023-11-30,vipfan,BLACKPINK just dropped a new MV 🔥 #KPOP,332,47,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+737,2023-03-10,caratdiamond,Twice performance is so powerful #ONCE,439,30,twice performance is so powerful  #once,0.3,positif
+738,2023-06-15,reveluv,BLACKPINK just dropped a new MV 🔥 #KPOP,477,333,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+739,2023-01-11,oncefan,NCT comeback soon! Can't wait 😍,722,491,nct comeback soon  can t wait,0.0,netral
+740,2023-07-30,armylover,EXO still kings of KPOP 🔥,523,88,exo still kings of kpop,0.0,netral
+741,2023-02-07,orbitluv,SHINee forever kings #Shawol,848,173,shinee forever kings  #shawol,0.0,netral
+742,2023-01-19,stayforever,BLACKPINK in your area! 💖,765,200,blackpink in your area,0.0,netral
+743,2023-05-19,nctzenlife,Idle rising so strong #Neverland,403,296,idle rising so strong  #neverland,0.43333333333333335,positif
+744,2023-04-12,nctzenlife,Itzy charisma is no joke #MIDZY,349,17,itzy charisma is no joke  #midzy,0.0,netral
+745,2023-12-28,exolegend,NCT comeback soon! Can't wait 😍,686,258,nct comeback soon  can t wait,0.0,netral
+746,2023-02-06,armylover,EXO still kings of KPOP 🔥,140,238,exo still kings of kpop,0.0,netral
+747,2023-02-21,exolegend,LOONA legends #Orbit,507,132,loona legends  #orbit,0.0,netral
+748,2023-09-15,engene,BTS x BLACKPINK collab dream? 😱,143,479,bts x blackpink collab dream,0.0,netral
+749,2023-04-06,orbitluv,"Enhypen growing so fast, proud! #ENGENE",124,379,enhypen growing so fast  proud   #engene,0.5,positif
+750,2023-10-30,blinkqueen,Stray Kids are dominating the stage! #STAY,351,338,stray kids are dominating the stage   #stay,0.0,netral
+751,2023-07-08,vipfan,GFriend songs always touch my heart 💕,835,185,gfriend songs always touch my heart,0.0,netral
+752,2023-02-01,blinkqueen,Idle rising so strong #Neverland,55,456,idle rising so strong  #neverland,0.43333333333333335,positif
+753,2023-01-25,blinkkpop,Idle rising so strong #Neverland,601,374,idle rising so strong  #neverland,0.43333333333333335,positif
+754,2023-05-07,blinkqueen,GFriend songs always touch my heart 💕,573,286,gfriend songs always touch my heart,0.0,netral
+755,2023-11-09,moaarmy,BLACKPINK in your area! 💖,426,231,blackpink in your area,0.0,netral
+756,2023-04-05,nctzenlife,Twice performance is so powerful #ONCE,812,195,twice performance is so powerful  #once,0.3,positif
+757,2023-08-11,reveluv,BTS paved the way #Army,242,333,bts paved the way  #army,0.0,netral
+758,2023-06-04,exolegend,BTS x BLACKPINK collab dream? 😱,205,109,bts x blackpink collab dream,0.0,netral
+759,2023-03-10,armyblink,LOONA legends #Orbit,541,10,loona legends  #orbit,0.0,netral
+760,2023-03-03,orbitluv,Seventeen world tour is amazing! #CARAT,796,460,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+761,2023-05-22,armyforever,TXT are the future of KPOP 💙,465,271,txt are the future of kpop,0.0,netral
+762,2023-09-21,vipfan,NCT comeback soon! Can't wait 😍,82,21,nct comeback soon  can t wait,0.0,netral
+763,2023-09-10,oncefan,Itzy charisma is no joke #MIDZY,583,442,itzy charisma is no joke  #midzy,0.0,netral
+764,2023-06-28,midzy,Itzy charisma is no joke #MIDZY,337,124,itzy charisma is no joke  #midzy,0.0,netral
+765,2023-02-16,moaarmy,NCT comeback soon! Can't wait 😍,55,260,nct comeback soon  can t wait,0.0,netral
+766,2023-10-14,shawol,Stray Kids are dominating the stage! #STAY,999,268,stray kids are dominating the stage   #stay,0.0,netral
+767,2023-10-17,midzy,TXT are the future of KPOP 💙,74,173,txt are the future of kpop,0.0,netral
+768,2023-09-12,neverland,Red Velvet vocals are insane 🎶 #ReVeluv,920,391,red velvet vocals are insane    #reveluv,-0.5,negatif
+769,2023-08-27,nctzenlife,GFriend songs always touch my heart 💕,730,220,gfriend songs always touch my heart,0.0,netral
+770,2023-06-22,orbitluv,NCT comeback soon! Can't wait 😍,839,106,nct comeback soon  can t wait,0.0,netral
+771,2023-12-31,armyblink,Red Velvet vocals are insane 🎶 #ReVeluv,459,201,red velvet vocals are insane    #reveluv,-0.5,negatif
+772,2023-01-11,orbitluv,Idle rising so strong #Neverland,469,266,idle rising so strong  #neverland,0.43333333333333335,positif
+773,2023-07-12,armylover,BIGBANG changed KPOP industry #VIP,766,296,bigbang changed kpop industry  #vip,0.0,netral
+774,2023-12-01,armyblink,EXO still kings of KPOP 🔥,251,63,exo still kings of kpop,0.0,netral
+775,2023-07-24,armylover,LE SSERAFIM slaying stages #FEARLESS,784,210,le sserafim slaying stages  #fearless,0.0,netral
+776,2023-05-25,armyblink,SHINee forever kings #Shawol,426,70,shinee forever kings  #shawol,0.0,netral
+777,2023-03-21,shawol,SHINee forever kings #Shawol,935,362,shinee forever kings  #shawol,0.0,netral
+778,2023-04-21,shawol,I love BTS so much! KPOP forever 💜,897,155,i love bts so much  kpop forever,0.35,positif
+779,2023-06-14,armyblink,BLACKPINK just dropped a new MV 🔥 #KPOP,791,274,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+780,2023-06-27,exolegend,BLACKPINK in your area! 💖,382,482,blackpink in your area,0.0,netral
+781,2023-08-29,reveluv,Stray Kids are dominating the stage! #STAY,174,191,stray kids are dominating the stage   #stay,0.0,netral
+782,2023-10-05,blinkqueen,Seventeen world tour is amazing! #CARAT,146,335,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+783,2023-08-20,oncefan,TXT are the future of KPOP 💙,868,498,txt are the future of kpop,0.0,netral
+784,2023-05-08,shawol,Stray Kids are dominating the stage! #STAY,467,62,stray kids are dominating the stage   #stay,0.0,netral
+785,2023-10-11,vipfan,Seventeen world tour is amazing! #CARAT,115,20,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+786,2023-05-03,caratdiamond,Stray Kids are dominating the stage! #STAY,565,431,stray kids are dominating the stage   #stay,0.0,netral
+787,2023-03-30,stayforever,Twice performance is so powerful #ONCE,514,137,twice performance is so powerful  #once,0.3,positif
+788,2023-02-15,blinkqueen,I love BTS so much! KPOP forever 💜,134,116,i love bts so much  kpop forever,0.35,positif
+789,2023-10-08,neverland,BIGBANG changed KPOP industry #VIP,879,11,bigbang changed kpop industry  #vip,0.0,netral
+790,2023-09-19,armylover,BIGBANG changed KPOP industry #VIP,627,499,bigbang changed kpop industry  #vip,0.0,netral
+791,2023-03-14,shawol,Itzy charisma is no joke #MIDZY,59,314,itzy charisma is no joke  #midzy,0.0,netral
+792,2023-01-15,midzy,BLACKPINK in your area! 💖,766,289,blackpink in your area,0.0,netral
+793,2023-07-15,caratdiamond,Twice performance is so powerful #ONCE,218,249,twice performance is so powerful  #once,0.3,positif
+794,2023-06-02,armylover,Red Velvet vocals are insane 🎶 #ReVeluv,338,102,red velvet vocals are insane    #reveluv,-0.5,negatif
+795,2023-10-02,buddyfan,BIGBANG changed KPOP industry #VIP,284,184,bigbang changed kpop industry  #vip,0.0,netral
+796,2023-04-16,oncefan,BLACKPINK in your area! 💖,346,29,blackpink in your area,0.0,netral
+797,2023-09-25,armyblink,"Enhypen growing so fast, proud! #ENGENE",267,155,enhypen growing so fast  proud   #engene,0.5,positif
+798,2023-12-04,exolegend,GFriend songs always touch my heart 💕,857,270,gfriend songs always touch my heart,0.0,netral
+799,2023-11-10,fearless,LE SSERAFIM slaying stages #FEARLESS,736,406,le sserafim slaying stages  #fearless,0.0,netral
+800,2023-02-05,stayforever,Red Velvet vocals are insane 🎶 #ReVeluv,974,391,red velvet vocals are insane    #reveluv,-0.5,negatif
+801,2023-07-08,reveluv,Red Velvet vocals are insane 🎶 #ReVeluv,875,239,red velvet vocals are insane    #reveluv,-0.5,negatif
+802,2023-03-23,midzy,BTS paved the way #Army,602,279,bts paved the way  #army,0.0,netral
+803,2023-04-16,engene,SHINee forever kings #Shawol,266,330,shinee forever kings  #shawol,0.0,netral
+804,2023-06-23,armyblink,Seventeen world tour is amazing! #CARAT,179,198,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+805,2023-10-23,armylover,BTS paved the way #Army,339,127,bts paved the way  #army,0.0,netral
+806,2023-08-14,oncefan,SHINee forever kings #Shawol,855,50,shinee forever kings  #shawol,0.0,netral
+807,2023-11-06,stayforever,SHINee forever kings #Shawol,955,324,shinee forever kings  #shawol,0.0,netral
+808,2023-07-26,fearless,SHINee forever kings #Shawol,985,212,shinee forever kings  #shawol,0.0,netral
+809,2023-02-26,blinkkpop,BLACKPINK just dropped a new MV 🔥 #KPOP,64,50,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+810,2023-09-22,armyforever,Itzy charisma is no joke #MIDZY,397,111,itzy charisma is no joke  #midzy,0.0,netral
+811,2023-05-31,neverland,BTS paved the way #Army,315,145,bts paved the way  #army,0.0,netral
+812,2023-07-07,fearless,I love BTS so much! KPOP forever 💜,815,55,i love bts so much  kpop forever,0.35,positif
+813,2023-01-20,orbitluv,Red Velvet vocals are insane 🎶 #ReVeluv,465,101,red velvet vocals are insane    #reveluv,-0.5,negatif
+814,2023-05-27,armyforever,LE SSERAFIM slaying stages #FEARLESS,142,198,le sserafim slaying stages  #fearless,0.0,netral
+815,2023-08-19,fearless,BLACKPINK just dropped a new MV 🔥 #KPOP,864,370,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+816,2023-06-03,stayforever,SHINee forever kings #Shawol,907,447,shinee forever kings  #shawol,0.0,netral
+817,2023-09-22,shawol,"Enhypen growing so fast, proud! #ENGENE",519,402,enhypen growing so fast  proud   #engene,0.5,positif
+818,2023-07-05,nctzenlife,BIGBANG changed KPOP industry #VIP,885,57,bigbang changed kpop industry  #vip,0.0,netral
+819,2023-03-17,stayforever,Red Velvet vocals are insane 🎶 #ReVeluv,168,272,red velvet vocals are insane    #reveluv,-0.5,negatif
+820,2023-07-25,stayforever,SHINee forever kings #Shawol,505,484,shinee forever kings  #shawol,0.0,netral
+821,2023-09-14,blinkqueen,NCT comeback soon! Can't wait 😍,806,41,nct comeback soon  can t wait,0.0,netral
+822,2023-02-10,armylover,Itzy charisma is no joke #MIDZY,678,124,itzy charisma is no joke  #midzy,0.0,netral
+823,2023-09-30,engene,Seventeen world tour is amazing! #CARAT,542,328,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+824,2023-09-20,orbitluv,SHINee forever kings #Shawol,838,312,shinee forever kings  #shawol,0.0,netral
+825,2023-08-30,armyforever,NCT comeback soon! Can't wait 😍,540,270,nct comeback soon  can t wait,0.0,netral
+826,2023-05-08,moaarmy,BTS x BLACKPINK collab dream? 😱,233,362,bts x blackpink collab dream,0.0,netral
+827,2023-02-22,stayforever,BLACKPINK just dropped a new MV 🔥 #KPOP,499,252,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+828,2023-09-20,buddyfan,Idle rising so strong #Neverland,972,472,idle rising so strong  #neverland,0.43333333333333335,positif
+829,2023-12-14,orbitluv,SHINee forever kings #Shawol,130,400,shinee forever kings  #shawol,0.0,netral
+830,2023-04-03,blinkkpop,BTS x BLACKPINK collab dream? 😱,293,306,bts x blackpink collab dream,0.0,netral
+831,2023-02-21,armyforever,Idle rising so strong #Neverland,819,356,idle rising so strong  #neverland,0.43333333333333335,positif
+832,2023-09-29,armyblink,GFriend songs always touch my heart 💕,350,345,gfriend songs always touch my heart,0.0,netral
+833,2023-11-26,blinkkpop,BLACKPINK in your area! 💖,834,87,blackpink in your area,0.0,netral
+834,2023-03-02,buddyfan,LE SSERAFIM slaying stages #FEARLESS,132,118,le sserafim slaying stages  #fearless,0.0,netral
+835,2023-01-09,moaarmy,SHINee forever kings #Shawol,330,458,shinee forever kings  #shawol,0.0,netral
+836,2023-01-04,exolegend,GFriend songs always touch my heart 💕,611,274,gfriend songs always touch my heart,0.0,netral
+837,2023-01-16,moaarmy,Twice performance is so powerful #ONCE,762,342,twice performance is so powerful  #once,0.3,positif
+838,2023-11-05,armyblink,Stray Kids are dominating the stage! #STAY,590,32,stray kids are dominating the stage   #stay,0.0,netral
+839,2023-08-29,nctzenlife,GFriend songs always touch my heart 💕,358,156,gfriend songs always touch my heart,0.0,netral
+840,2023-12-28,caratdiamond,GFriend songs always touch my heart 💕,323,11,gfriend songs always touch my heart,0.0,netral
+841,2023-05-06,orbitluv,LOONA legends #Orbit,753,453,loona legends  #orbit,0.0,netral
+842,2023-02-07,neverland,Red Velvet vocals are insane 🎶 #ReVeluv,945,402,red velvet vocals are insane    #reveluv,-0.5,negatif
+843,2023-03-22,shawol,EXO still kings of KPOP 🔥,717,359,exo still kings of kpop,0.0,netral
+844,2023-02-27,vipfan,NCT comeback soon! Can't wait 😍,779,88,nct comeback soon  can t wait,0.0,netral
+845,2023-06-13,vipfan,BTS x BLACKPINK collab dream? 😱,876,317,bts x blackpink collab dream,0.0,netral
+846,2023-10-09,reveluv,BLACKPINK in your area! 💖,975,465,blackpink in your area,0.0,netral
+847,2023-10-31,fearless,Stray Kids are dominating the stage! #STAY,69,123,stray kids are dominating the stage   #stay,0.0,netral
+848,2023-12-23,armyblink,Stray Kids are dominating the stage! #STAY,883,359,stray kids are dominating the stage   #stay,0.0,netral
+849,2023-03-19,neverland,LE SSERAFIM slaying stages #FEARLESS,194,51,le sserafim slaying stages  #fearless,0.0,netral
+850,2023-04-03,engene,BLACKPINK just dropped a new MV 🔥 #KPOP,275,165,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+851,2023-01-25,armyforever,LOONA legends #Orbit,350,153,loona legends  #orbit,0.0,netral
+852,2023-03-29,armyforever,Itzy charisma is no joke #MIDZY,172,188,itzy charisma is no joke  #midzy,0.0,netral
+853,2023-05-10,neverland,"Enhypen growing so fast, proud! #ENGENE",992,27,enhypen growing so fast  proud   #engene,0.5,positif
+854,2023-08-13,armyblink,"Enhypen growing so fast, proud! #ENGENE",547,169,enhypen growing so fast  proud   #engene,0.5,positif
+855,2023-03-27,midzy,NCT comeback soon! Can't wait 😍,316,380,nct comeback soon  can t wait,0.0,netral
+856,2023-03-08,stayforever,BTS x BLACKPINK collab dream? 😱,788,277,bts x blackpink collab dream,0.0,netral
+857,2023-01-08,armyblink,GFriend songs always touch my heart 💕,955,367,gfriend songs always touch my heart,0.0,netral
+858,2023-04-27,stayforever,"Enhypen growing so fast, proud! #ENGENE",238,116,enhypen growing so fast  proud   #engene,0.5,positif
+859,2023-10-10,fearless,LOONA legends #Orbit,313,449,loona legends  #orbit,0.0,netral
+860,2023-06-28,reveluv,TXT are the future of KPOP 💙,514,250,txt are the future of kpop,0.0,netral
+861,2023-06-18,armyforever,SHINee forever kings #Shawol,866,132,shinee forever kings  #shawol,0.0,netral
+862,2023-03-02,midzy,"Enhypen growing so fast, proud! #ENGENE",715,144,enhypen growing so fast  proud   #engene,0.5,positif
+863,2023-08-25,armyblink,Red Velvet vocals are insane 🎶 #ReVeluv,470,181,red velvet vocals are insane    #reveluv,-0.5,negatif
+864,2023-11-19,orbitluv,Seventeen world tour is amazing! #CARAT,478,479,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+865,2023-02-21,blinkkpop,BIGBANG changed KPOP industry #VIP,555,31,bigbang changed kpop industry  #vip,0.0,netral
+866,2023-07-12,shawol,Red Velvet vocals are insane 🎶 #ReVeluv,511,79,red velvet vocals are insane    #reveluv,-0.5,negatif
+867,2023-04-20,fearless,I love BTS so much! KPOP forever 💜,903,335,i love bts so much  kpop forever,0.35,positif
+868,2023-12-18,neverland,GFriend songs always touch my heart 💕,284,451,gfriend songs always touch my heart,0.0,netral
+869,2023-03-28,vipfan,BTS x BLACKPINK collab dream? 😱,364,194,bts x blackpink collab dream,0.0,netral
+870,2023-03-06,orbitluv,BTS x BLACKPINK collab dream? 😱,569,186,bts x blackpink collab dream,0.0,netral
+871,2023-05-27,moaarmy,EXO still kings of KPOP 🔥,950,408,exo still kings of kpop,0.0,netral
+872,2023-06-03,caratdiamond,BIGBANG changed KPOP industry #VIP,795,294,bigbang changed kpop industry  #vip,0.0,netral
+873,2023-04-26,shawol,BTS x BLACKPINK collab dream? 😱,557,332,bts x blackpink collab dream,0.0,netral
+874,2023-10-04,fearless,GFriend songs always touch my heart 💕,110,330,gfriend songs always touch my heart,0.0,netral
+875,2023-09-14,armyforever,BLACKPINK just dropped a new MV 🔥 #KPOP,406,295,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+876,2023-03-23,blinkkpop,BLACKPINK just dropped a new MV 🔥 #KPOP,215,475,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+877,2023-10-09,midzy,BTS paved the way #Army,608,177,bts paved the way  #army,0.0,netral
+878,2023-01-17,armylover,BLACKPINK in your area! 💖,266,124,blackpink in your area,0.0,netral
+879,2023-01-20,blinkkpop,Idle rising so strong #Neverland,699,133,idle rising so strong  #neverland,0.43333333333333335,positif
+880,2023-12-27,armyblink,NCT comeback soon! Can't wait 😍,571,36,nct comeback soon  can t wait,0.0,netral
+881,2023-02-07,oncefan,Twice performance is so powerful #ONCE,945,220,twice performance is so powerful  #once,0.3,positif
+882,2023-02-21,nctzenlife,LOONA legends #Orbit,287,358,loona legends  #orbit,0.0,netral
+883,2023-02-01,fearless,BTS paved the way #Army,95,116,bts paved the way  #army,0.0,netral
+884,2023-05-15,neverland,SHINee forever kings #Shawol,434,447,shinee forever kings  #shawol,0.0,netral
+885,2023-01-11,armyblink,BLACKPINK just dropped a new MV 🔥 #KPOP,963,391,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+886,2023-12-21,blinkkpop,BLACKPINK just dropped a new MV 🔥 #KPOP,877,320,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+887,2023-09-11,orbitluv,"Enhypen growing so fast, proud! #ENGENE",904,386,enhypen growing so fast  proud   #engene,0.5,positif
+888,2023-08-15,neverland,I love BTS so much! KPOP forever 💜,449,217,i love bts so much  kpop forever,0.35,positif
+889,2023-04-22,oncefan,Red Velvet vocals are insane 🎶 #ReVeluv,464,89,red velvet vocals are insane    #reveluv,-0.5,negatif
+890,2023-07-25,blinkkpop,Itzy charisma is no joke #MIDZY,254,102,itzy charisma is no joke  #midzy,0.0,netral
+891,2023-02-09,exolegend,BTS x BLACKPINK collab dream? 😱,105,88,bts x blackpink collab dream,0.0,netral
+892,2023-04-04,buddyfan,Seventeen world tour is amazing! #CARAT,984,199,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+893,2023-06-09,reveluv,Seventeen world tour is amazing! #CARAT,142,487,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+894,2023-05-14,nctzenlife,NCT comeback soon! Can't wait 😍,942,133,nct comeback soon  can t wait,0.0,netral
+895,2023-10-26,armyblink,I love BTS so much! KPOP forever 💜,338,330,i love bts so much  kpop forever,0.35,positif
+896,2023-05-20,buddyfan,"Enhypen growing so fast, proud! #ENGENE",795,88,enhypen growing so fast  proud   #engene,0.5,positif
+897,2023-05-10,neverland,NCT comeback soon! Can't wait 😍,345,281,nct comeback soon  can t wait,0.0,netral
+898,2023-05-15,blinkqueen,GFriend songs always touch my heart 💕,710,64,gfriend songs always touch my heart,0.0,netral
+899,2023-06-18,blinkqueen,"Enhypen growing so fast, proud! #ENGENE",439,26,enhypen growing so fast  proud   #engene,0.5,positif
+900,2023-09-09,armyforever,LOONA legends #Orbit,550,302,loona legends  #orbit,0.0,netral
+901,2023-05-24,armyforever,I love BTS so much! KPOP forever 💜,228,65,i love bts so much  kpop forever,0.35,positif
+902,2023-06-17,buddyfan,BLACKPINK just dropped a new MV 🔥 #KPOP,202,283,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+903,2023-06-21,armyforever,BLACKPINK in your area! 💖,731,66,blackpink in your area,0.0,netral
+904,2023-12-22,armyblink,Itzy charisma is no joke #MIDZY,230,157,itzy charisma is no joke  #midzy,0.0,netral
+905,2023-04-04,fearless,LE SSERAFIM slaying stages #FEARLESS,123,416,le sserafim slaying stages  #fearless,0.0,netral
+906,2023-04-11,shawol,I love BTS so much! KPOP forever 💜,913,59,i love bts so much  kpop forever,0.35,positif
+907,2023-09-23,oncefan,Itzy charisma is no joke #MIDZY,56,62,itzy charisma is no joke  #midzy,0.0,netral
+908,2023-08-31,caratdiamond,Red Velvet vocals are insane 🎶 #ReVeluv,198,193,red velvet vocals are insane    #reveluv,-0.5,negatif
+909,2023-07-08,vipfan,Stray Kids are dominating the stage! #STAY,672,173,stray kids are dominating the stage   #stay,0.0,netral
+910,2023-12-31,armyblink,LE SSERAFIM slaying stages #FEARLESS,482,386,le sserafim slaying stages  #fearless,0.0,netral
+911,2023-05-14,engene,Itzy charisma is no joke #MIDZY,582,382,itzy charisma is no joke  #midzy,0.0,netral
+912,2023-04-14,armyblink,SHINee forever kings #Shawol,104,339,shinee forever kings  #shawol,0.0,netral
+913,2023-09-23,reveluv,BTS x BLACKPINK collab dream? 😱,616,167,bts x blackpink collab dream,0.0,netral
+914,2023-02-14,midzy,GFriend songs always touch my heart 💕,585,277,gfriend songs always touch my heart,0.0,netral
+915,2023-12-13,neverland,Itzy charisma is no joke #MIDZY,345,499,itzy charisma is no joke  #midzy,0.0,netral
+916,2023-05-25,oncefan,EXO still kings of KPOP 🔥,461,20,exo still kings of kpop,0.0,netral
+917,2023-02-12,armyforever,Itzy charisma is no joke #MIDZY,992,297,itzy charisma is no joke  #midzy,0.0,netral
+918,2023-04-25,armylover,"Enhypen growing so fast, proud! #ENGENE",849,11,enhypen growing so fast  proud   #engene,0.5,positif
+919,2023-09-18,vipfan,Twice performance is so powerful #ONCE,661,421,twice performance is so powerful  #once,0.3,positif
+920,2023-01-17,neverland,Itzy charisma is no joke #MIDZY,291,100,itzy charisma is no joke  #midzy,0.0,netral
+921,2023-03-28,armyblink,SHINee forever kings #Shawol,514,29,shinee forever kings  #shawol,0.0,netral
+922,2023-05-24,oncefan,EXO still kings of KPOP 🔥,127,279,exo still kings of kpop,0.0,netral
+923,2023-04-15,midzy,EXO still kings of KPOP 🔥,426,269,exo still kings of kpop,0.0,netral
+924,2023-12-15,stayforever,Seventeen world tour is amazing! #CARAT,680,463,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+925,2023-05-16,blinkqueen,LE SSERAFIM slaying stages #FEARLESS,460,24,le sserafim slaying stages  #fearless,0.0,netral
+926,2023-11-10,armyblink,Twice performance is so powerful #ONCE,636,209,twice performance is so powerful  #once,0.3,positif
+927,2023-04-25,armyblink,BIGBANG changed KPOP industry #VIP,153,396,bigbang changed kpop industry  #vip,0.0,netral
+928,2023-04-27,stayforever,I love BTS so much! KPOP forever 💜,523,480,i love bts so much  kpop forever,0.35,positif
+929,2023-06-08,midzy,Itzy charisma is no joke #MIDZY,516,71,itzy charisma is no joke  #midzy,0.0,netral
+930,2023-03-29,shawol,Twice performance is so powerful #ONCE,68,34,twice performance is so powerful  #once,0.3,positif
+931,2023-11-05,armylover,Idle rising so strong #Neverland,318,354,idle rising so strong  #neverland,0.43333333333333335,positif
+932,2023-09-15,shawol,"Enhypen growing so fast, proud! #ENGENE",480,101,enhypen growing so fast  proud   #engene,0.5,positif
+933,2023-09-25,fearless,EXO still kings of KPOP 🔥,716,439,exo still kings of kpop,0.0,netral
+934,2023-03-05,nctzenlife,GFriend songs always touch my heart 💕,793,325,gfriend songs always touch my heart,0.0,netral
+935,2023-01-23,blinkkpop,"Enhypen growing so fast, proud! #ENGENE",596,229,enhypen growing so fast  proud   #engene,0.5,positif
+936,2023-05-29,blinkqueen,BLACKPINK in your area! 💖,843,136,blackpink in your area,0.0,netral
+937,2023-07-03,engene,NCT comeback soon! Can't wait 😍,321,346,nct comeback soon  can t wait,0.0,netral
+938,2023-08-22,blinkkpop,BTS paved the way #Army,912,12,bts paved the way  #army,0.0,netral
+939,2023-06-18,armyforever,Idle rising so strong #Neverland,621,19,idle rising so strong  #neverland,0.43333333333333335,positif
+940,2023-12-18,reveluv,Red Velvet vocals are insane 🎶 #ReVeluv,117,308,red velvet vocals are insane    #reveluv,-0.5,negatif
+941,2023-01-26,exolegend,"Enhypen growing so fast, proud! #ENGENE",56,42,enhypen growing so fast  proud   #engene,0.5,positif
+942,2023-01-28,blinkkpop,LE SSERAFIM slaying stages #FEARLESS,445,303,le sserafim slaying stages  #fearless,0.0,netral
+943,2023-04-19,blinkqueen,Red Velvet vocals are insane 🎶 #ReVeluv,471,393,red velvet vocals are insane    #reveluv,-0.5,negatif
+944,2023-08-04,armylover,LOONA legends #Orbit,346,385,loona legends  #orbit,0.0,netral
+945,2023-02-13,moaarmy,BIGBANG changed KPOP industry #VIP,367,15,bigbang changed kpop industry  #vip,0.0,netral
+946,2023-05-29,orbitluv,LOONA legends #Orbit,268,353,loona legends  #orbit,0.0,netral
+947,2023-07-20,buddyfan,TXT are the future of KPOP 💙,980,312,txt are the future of kpop,0.0,netral
+948,2023-06-19,armylover,SHINee forever kings #Shawol,364,52,shinee forever kings  #shawol,0.0,netral
+949,2023-04-28,engene,BIGBANG changed KPOP industry #VIP,479,331,bigbang changed kpop industry  #vip,0.0,netral
+950,2023-04-23,stayforever,EXO still kings of KPOP 🔥,449,91,exo still kings of kpop,0.0,netral
+951,2023-10-04,neverland,NCT comeback soon! Can't wait 😍,440,295,nct comeback soon  can t wait,0.0,netral
+952,2023-08-23,blinkqueen,Twice performance is so powerful #ONCE,514,500,twice performance is so powerful  #once,0.3,positif
+953,2023-04-26,moaarmy,Twice performance is so powerful #ONCE,333,479,twice performance is so powerful  #once,0.3,positif
+954,2023-09-05,armyforever,BIGBANG changed KPOP industry #VIP,772,79,bigbang changed kpop industry  #vip,0.0,netral
+955,2023-08-21,blinkkpop,EXO still kings of KPOP 🔥,378,422,exo still kings of kpop,0.0,netral
+956,2023-08-15,vipfan,Itzy charisma is no joke #MIDZY,275,400,itzy charisma is no joke  #midzy,0.0,netral
+957,2023-04-13,stayforever,LOONA legends #Orbit,191,74,loona legends  #orbit,0.0,netral
+958,2023-01-25,blinkkpop,GFriend songs always touch my heart 💕,840,146,gfriend songs always touch my heart,0.0,netral
+959,2023-02-06,engene,LOONA legends #Orbit,938,345,loona legends  #orbit,0.0,netral
+960,2023-07-24,caratdiamond,BTS x BLACKPINK collab dream? 😱,782,361,bts x blackpink collab dream,0.0,netral
+961,2023-07-30,nctzenlife,TXT are the future of KPOP 💙,856,99,txt are the future of kpop,0.0,netral
+962,2023-09-07,armylover,BLACKPINK in your area! 💖,689,349,blackpink in your area,0.0,netral
+963,2023-07-29,midzy,TXT are the future of KPOP 💙,530,95,txt are the future of kpop,0.0,netral
+964,2023-09-10,blinkqueen,EXO still kings of KPOP 🔥,61,341,exo still kings of kpop,0.0,netral
+965,2023-06-17,moaarmy,Itzy charisma is no joke #MIDZY,608,394,itzy charisma is no joke  #midzy,0.0,netral
+966,2023-06-08,blinkkpop,I love BTS so much! KPOP forever 💜,588,286,i love bts so much  kpop forever,0.35,positif
+967,2023-08-17,blinkkpop,EXO still kings of KPOP 🔥,701,206,exo still kings of kpop,0.0,netral
+968,2023-10-01,moaarmy,I love BTS so much! KPOP forever 💜,576,356,i love bts so much  kpop forever,0.35,positif
+969,2023-10-05,armylover,Idle rising so strong #Neverland,119,370,idle rising so strong  #neverland,0.43333333333333335,positif
+970,2023-12-17,armyforever,Red Velvet vocals are insane 🎶 #ReVeluv,306,202,red velvet vocals are insane    #reveluv,-0.5,negatif
+971,2023-05-10,armylover,Twice performance is so powerful #ONCE,855,357,twice performance is so powerful  #once,0.3,positif
+972,2023-03-24,engene,I love BTS so much! KPOP forever 💜,845,87,i love bts so much  kpop forever,0.35,positif
+973,2023-11-24,fearless,SHINee forever kings #Shawol,134,352,shinee forever kings  #shawol,0.0,netral
+974,2023-06-22,shawol,Itzy charisma is no joke #MIDZY,788,199,itzy charisma is no joke  #midzy,0.0,netral
+975,2023-04-13,reveluv,LOONA legends #Orbit,748,297,loona legends  #orbit,0.0,netral
+976,2023-03-06,neverland,I love BTS so much! KPOP forever 💜,706,226,i love bts so much  kpop forever,0.35,positif
+977,2023-06-03,vipfan,Seventeen world tour is amazing! #CARAT,342,471,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+978,2023-04-11,vipfan,BIGBANG changed KPOP industry #VIP,442,455,bigbang changed kpop industry  #vip,0.0,netral
+979,2023-07-27,blinkkpop,LOONA legends #Orbit,73,189,loona legends  #orbit,0.0,netral
+980,2023-10-15,midzy,Seventeen world tour is amazing! #CARAT,912,253,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+981,2023-02-14,armyblink,Itzy charisma is no joke #MIDZY,709,57,itzy charisma is no joke  #midzy,0.0,netral
+982,2023-02-18,armylover,NCT comeback soon! Can't wait 😍,184,216,nct comeback soon  can t wait,0.0,netral
+983,2023-06-11,orbitluv,LOONA legends #Orbit,299,206,loona legends  #orbit,0.0,netral
+984,2023-04-27,caratdiamond,"Enhypen growing so fast, proud! #ENGENE",995,173,enhypen growing so fast  proud   #engene,0.5,positif
+985,2023-10-05,nctzenlife,Seventeen world tour is amazing! #CARAT,919,124,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+986,2023-05-15,reveluv,TXT are the future of KPOP 💙,67,99,txt are the future of kpop,0.0,netral
+987,2023-03-12,orbitluv,Itzy charisma is no joke #MIDZY,270,326,itzy charisma is no joke  #midzy,0.0,netral
+988,2023-07-14,orbitluv,SHINee forever kings #Shawol,351,12,shinee forever kings  #shawol,0.0,netral
+989,2023-05-22,shawol,LOONA legends #Orbit,62,72,loona legends  #orbit,0.0,netral
+990,2023-08-13,moaarmy,BIGBANG changed KPOP industry #VIP,571,41,bigbang changed kpop industry  #vip,0.0,netral
+991,2023-05-25,neverland,Stray Kids are dominating the stage! #STAY,238,398,stray kids are dominating the stage   #stay,0.0,netral
+992,2023-12-06,shawol,EXO still kings of KPOP 🔥,452,104,exo still kings of kpop,0.0,netral
+993,2023-02-03,blinkkpop,BLACKPINK just dropped a new MV 🔥 #KPOP,998,128,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+994,2023-01-02,blinkkpop,NCT comeback soon! Can't wait 😍,638,263,nct comeback soon  can t wait,0.0,netral
+995,2023-12-29,midzy,LOONA legends #Orbit,52,318,loona legends  #orbit,0.0,netral
+996,2023-05-24,orbitluv,BLACKPINK in your area! 💖,902,145,blackpink in your area,0.0,netral
+997,2023-02-22,blinkkpop,BIGBANG changed KPOP industry #VIP,819,435,bigbang changed kpop industry  #vip,0.0,netral
+998,2023-07-28,armyblink,BTS x BLACKPINK collab dream? 😱,590,472,bts x blackpink collab dream,0.0,netral
+999,2023-11-17,blinkkpop,Itzy charisma is no joke #MIDZY,699,177,itzy charisma is no joke  #midzy,0.0,netral
+1000,2023-03-09,caratdiamond,Twice performance is so powerful #ONCE,71,23,twice performance is so powerful  #once,0.3,positif
+1001,2023-08-05,fearless,"Enhypen growing so fast, proud! #ENGENE",988,471,enhypen growing so fast  proud   #engene,0.5,positif
+1002,2023-09-27,moaarmy,BLACKPINK in your area! 💖,684,382,blackpink in your area,0.0,netral
+1003,2023-06-25,neverland,I love BTS so much! KPOP forever 💜,241,484,i love bts so much  kpop forever,0.35,positif
+1004,2023-08-31,caratdiamond,Stray Kids are dominating the stage! #STAY,109,98,stray kids are dominating the stage   #stay,0.0,netral
+1005,2023-02-08,moaarmy,Red Velvet vocals are insane 🎶 #ReVeluv,686,100,red velvet vocals are insane    #reveluv,-0.5,negatif
+1006,2023-08-18,midzy,Idle rising so strong #Neverland,549,103,idle rising so strong  #neverland,0.43333333333333335,positif
+1007,2023-08-27,orbitluv,"Enhypen growing so fast, proud! #ENGENE",500,200,enhypen growing so fast  proud   #engene,0.5,positif
+1008,2023-03-14,nctzenlife,NCT comeback soon! Can't wait 😍,281,450,nct comeback soon  can t wait,0.0,netral
+1009,2023-09-20,engene,BTS x BLACKPINK collab dream? 😱,969,300,bts x blackpink collab dream,0.0,netral
+1010,2023-05-27,shawol,BLACKPINK just dropped a new MV 🔥 #KPOP,458,115,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+1011,2023-03-26,fearless,Itzy charisma is no joke #MIDZY,89,466,itzy charisma is no joke  #midzy,0.0,netral
+1012,2023-12-18,nctzenlife,LOONA legends #Orbit,585,317,loona legends  #orbit,0.0,netral
+1013,2023-02-19,midzy,BTS paved the way #Army,961,240,bts paved the way  #army,0.0,netral
+1014,2023-11-11,vipfan,Itzy charisma is no joke #MIDZY,95,42,itzy charisma is no joke  #midzy,0.0,netral
+1015,2023-09-24,moaarmy,BLACKPINK in your area! 💖,562,88,blackpink in your area,0.0,netral
+1016,2023-09-23,armyforever,BTS x BLACKPINK collab dream? 😱,813,238,bts x blackpink collab dream,0.0,netral
+1017,2023-03-23,reveluv,BIGBANG changed KPOP industry #VIP,238,235,bigbang changed kpop industry  #vip,0.0,netral
+1018,2023-05-26,blinkqueen,BTS x BLACKPINK collab dream? 😱,364,221,bts x blackpink collab dream,0.0,netral
+1019,2023-11-11,exolegend,SHINee forever kings #Shawol,450,474,shinee forever kings  #shawol,0.0,netral
+1020,2023-12-31,armylover,Stray Kids are dominating the stage! #STAY,498,220,stray kids are dominating the stage   #stay,0.0,netral
+1021,2023-07-01,oncefan,Red Velvet vocals are insane 🎶 #ReVeluv,131,266,red velvet vocals are insane    #reveluv,-0.5,negatif
+1022,2023-11-10,armyforever,BTS paved the way #Army,89,17,bts paved the way  #army,0.0,netral
+1023,2023-02-08,midzy,LE SSERAFIM slaying stages #FEARLESS,136,20,le sserafim slaying stages  #fearless,0.0,netral
+1024,2023-02-16,moaarmy,Twice performance is so powerful #ONCE,871,297,twice performance is so powerful  #once,0.3,positif
+1025,2023-07-19,stayforever,TXT are the future of KPOP 💙,551,412,txt are the future of kpop,0.0,netral
+1026,2023-11-25,reveluv,BLACKPINK in your area! 💖,970,64,blackpink in your area,0.0,netral
+1027,2023-09-02,armylover,GFriend songs always touch my heart 💕,320,386,gfriend songs always touch my heart,0.0,netral
+1028,2023-04-13,caratdiamond,Idle rising so strong #Neverland,100,216,idle rising so strong  #neverland,0.43333333333333335,positif
+1029,2023-05-01,buddyfan,GFriend songs always touch my heart 💕,844,18,gfriend songs always touch my heart,0.0,netral
+1030,2023-05-06,armyforever,Itzy charisma is no joke #MIDZY,238,447,itzy charisma is no joke  #midzy,0.0,netral
+1031,2023-09-12,armyforever,SHINee forever kings #Shawol,851,491,shinee forever kings  #shawol,0.0,netral
+1032,2023-01-11,shawol,NCT comeback soon! Can't wait 😍,958,406,nct comeback soon  can t wait,0.0,netral
+1033,2023-10-18,exolegend,Idle rising so strong #Neverland,532,37,idle rising so strong  #neverland,0.43333333333333335,positif
+1034,2023-05-02,stayforever,I love BTS so much! KPOP forever 💜,960,311,i love bts so much  kpop forever,0.35,positif
+1035,2023-07-07,nctzenlife,TXT are the future of KPOP 💙,850,84,txt are the future of kpop,0.0,netral
+1036,2023-07-11,caratdiamond,GFriend songs always touch my heart 💕,69,50,gfriend songs always touch my heart,0.0,netral
+1037,2023-07-21,midzy,SHINee forever kings #Shawol,691,232,shinee forever kings  #shawol,0.0,netral
+1038,2023-04-29,stayforever,"Enhypen growing so fast, proud! #ENGENE",881,424,enhypen growing so fast  proud   #engene,0.5,positif
+1039,2023-01-06,blinkqueen,LE SSERAFIM slaying stages #FEARLESS,478,168,le sserafim slaying stages  #fearless,0.0,netral
+1040,2023-08-06,exolegend,Seventeen world tour is amazing! #CARAT,974,106,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+1041,2023-03-22,midzy,NCT comeback soon! Can't wait 😍,201,208,nct comeback soon  can t wait,0.0,netral
+1042,2023-05-03,fearless,Itzy charisma is no joke #MIDZY,850,266,itzy charisma is no joke  #midzy,0.0,netral
+1043,2023-05-23,reveluv,EXO still kings of KPOP 🔥,293,114,exo still kings of kpop,0.0,netral
+1044,2023-02-10,vipfan,I love BTS so much! KPOP forever 💜,909,463,i love bts so much  kpop forever,0.35,positif
+1045,2023-04-03,midzy,LE SSERAFIM slaying stages #FEARLESS,329,11,le sserafim slaying stages  #fearless,0.0,netral
+1046,2023-12-01,armylover,BTS paved the way #Army,848,256,bts paved the way  #army,0.0,netral
+1047,2023-12-08,fearless,EXO still kings of KPOP 🔥,451,499,exo still kings of kpop,0.0,netral
+1048,2023-05-06,buddyfan,GFriend songs always touch my heart 💕,199,132,gfriend songs always touch my heart,0.0,netral
+1049,2023-03-15,moaarmy,Twice performance is so powerful #ONCE,662,287,twice performance is so powerful  #once,0.3,positif
+1050,2023-05-07,nctzenlife,GFriend songs always touch my heart 💕,782,500,gfriend songs always touch my heart,0.0,netral
+1051,2023-04-22,blinkqueen,LE SSERAFIM slaying stages #FEARLESS,165,434,le sserafim slaying stages  #fearless,0.0,netral
+1052,2023-10-21,oncefan,BIGBANG changed KPOP industry #VIP,350,43,bigbang changed kpop industry  #vip,0.0,netral
+1053,2023-04-13,armylover,BLACKPINK in your area! 💖,821,486,blackpink in your area,0.0,netral
+1054,2023-04-04,caratdiamond,Seventeen world tour is amazing! #CARAT,532,107,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+1055,2023-04-18,caratdiamond,BLACKPINK in your area! 💖,135,68,blackpink in your area,0.0,netral
+1056,2023-12-31,reveluv,Seventeen world tour is amazing! #CARAT,275,376,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+1057,2023-07-13,armylover,Idle rising so strong #Neverland,189,27,idle rising so strong  #neverland,0.43333333333333335,positif
+1058,2023-10-22,midzy,NCT comeback soon! Can't wait 😍,825,144,nct comeback soon  can t wait,0.0,netral
+1059,2023-02-26,stayforever,Seventeen world tour is amazing! #CARAT,864,42,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+1060,2023-05-05,moaarmy,LOONA legends #Orbit,93,428,loona legends  #orbit,0.0,netral
+1061,2023-02-09,moaarmy,Itzy charisma is no joke #MIDZY,259,454,itzy charisma is no joke  #midzy,0.0,netral
+1062,2023-05-13,midzy,I love BTS so much! KPOP forever 💜,166,445,i love bts so much  kpop forever,0.35,positif
+1063,2023-09-10,fearless,Seventeen world tour is amazing! #CARAT,202,228,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+1064,2023-07-11,orbitluv,LOONA legends #Orbit,895,164,loona legends  #orbit,0.0,netral
+1065,2023-07-18,blinkqueen,TXT are the future of KPOP 💙,140,213,txt are the future of kpop,0.0,netral
+1066,2023-06-09,blinkkpop,Red Velvet vocals are insane 🎶 #ReVeluv,993,176,red velvet vocals are insane    #reveluv,-0.5,negatif
+1067,2023-08-18,midzy,"Enhypen growing so fast, proud! #ENGENE",144,204,enhypen growing so fast  proud   #engene,0.5,positif
+1068,2023-09-22,reveluv,"Enhypen growing so fast, proud! #ENGENE",772,283,enhypen growing so fast  proud   #engene,0.5,positif
+1069,2023-11-08,shawol,TXT are the future of KPOP 💙,435,124,txt are the future of kpop,0.0,netral
+1070,2023-09-07,armyforever,EXO still kings of KPOP 🔥,448,493,exo still kings of kpop,0.0,netral
+1071,2023-10-04,blinkqueen,Idle rising so strong #Neverland,474,312,idle rising so strong  #neverland,0.43333333333333335,positif
+1072,2023-10-14,moaarmy,LOONA legends #Orbit,404,126,loona legends  #orbit,0.0,netral
+1073,2023-09-10,blinkqueen,BTS x BLACKPINK collab dream? 😱,584,384,bts x blackpink collab dream,0.0,netral
+1074,2023-02-16,armyblink,TXT are the future of KPOP 💙,374,407,txt are the future of kpop,0.0,netral
+1075,2023-11-01,buddyfan,Stray Kids are dominating the stage! #STAY,146,59,stray kids are dominating the stage   #stay,0.0,netral
+1076,2023-08-06,oncefan,TXT are the future of KPOP 💙,983,30,txt are the future of kpop,0.0,netral
+1077,2023-09-07,reveluv,Idle rising so strong #Neverland,273,130,idle rising so strong  #neverland,0.43333333333333335,positif
+1078,2023-11-06,blinkqueen,Twice performance is so powerful #ONCE,657,182,twice performance is so powerful  #once,0.3,positif
+1079,2023-08-26,blinkkpop,BLACKPINK just dropped a new MV 🔥 #KPOP,281,27,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+1080,2023-04-22,oncefan,GFriend songs always touch my heart 💕,509,156,gfriend songs always touch my heart,0.0,netral
+1081,2023-07-20,shawol,Seventeen world tour is amazing! #CARAT,595,493,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+1082,2023-02-07,nctzenlife,Stray Kids are dominating the stage! #STAY,817,368,stray kids are dominating the stage   #stay,0.0,netral
+1083,2023-06-29,moaarmy,Stray Kids are dominating the stage! #STAY,653,273,stray kids are dominating the stage   #stay,0.0,netral
+1084,2023-03-15,caratdiamond,LE SSERAFIM slaying stages #FEARLESS,836,17,le sserafim slaying stages  #fearless,0.0,netral
+1085,2023-04-30,blinkqueen,BLACKPINK just dropped a new MV 🔥 #KPOP,254,129,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+1086,2023-02-08,stayforever,Red Velvet vocals are insane 🎶 #ReVeluv,386,486,red velvet vocals are insane    #reveluv,-0.5,negatif
+1087,2023-08-29,oncefan,SHINee forever kings #Shawol,820,206,shinee forever kings  #shawol,0.0,netral
+1088,2023-08-21,engene,LE SSERAFIM slaying stages #FEARLESS,305,297,le sserafim slaying stages  #fearless,0.0,netral
+1089,2023-03-19,nctzenlife,EXO still kings of KPOP 🔥,192,418,exo still kings of kpop,0.0,netral
+1090,2023-06-26,oncefan,"Enhypen growing so fast, proud! #ENGENE",964,110,enhypen growing so fast  proud   #engene,0.5,positif
+1091,2023-04-06,shawol,LE SSERAFIM slaying stages #FEARLESS,633,254,le sserafim slaying stages  #fearless,0.0,netral
+1092,2023-08-02,exolegend,Stray Kids are dominating the stage! #STAY,587,485,stray kids are dominating the stage   #stay,0.0,netral
+1093,2023-05-24,buddyfan,GFriend songs always touch my heart 💕,321,288,gfriend songs always touch my heart,0.0,netral
+1094,2023-03-08,oncefan,Red Velvet vocals are insane 🎶 #ReVeluv,90,63,red velvet vocals are insane    #reveluv,-0.5,negatif
+1095,2023-12-30,reveluv,TXT are the future of KPOP 💙,536,91,txt are the future of kpop,0.0,netral
+1096,2023-07-25,fearless,GFriend songs always touch my heart 💕,453,307,gfriend songs always touch my heart,0.0,netral
+1097,2023-06-17,fearless,BIGBANG changed KPOP industry #VIP,134,417,bigbang changed kpop industry  #vip,0.0,netral
+1098,2023-03-20,orbitluv,BTS paved the way #Army,920,413,bts paved the way  #army,0.0,netral
+1099,2023-09-26,reveluv,Red Velvet vocals are insane 🎶 #ReVeluv,636,113,red velvet vocals are insane    #reveluv,-0.5,negatif
+1100,2023-09-30,blinkqueen,LOONA legends #Orbit,400,269,loona legends  #orbit,0.0,netral
+1101,2023-09-04,buddyfan,Itzy charisma is no joke #MIDZY,265,243,itzy charisma is no joke  #midzy,0.0,netral
+1102,2023-11-10,neverland,Twice performance is so powerful #ONCE,696,276,twice performance is so powerful  #once,0.3,positif
+1103,2023-04-12,armyforever,SHINee forever kings #Shawol,107,44,shinee forever kings  #shawol,0.0,netral
+1104,2023-06-15,stayforever,LE SSERAFIM slaying stages #FEARLESS,857,284,le sserafim slaying stages  #fearless,0.0,netral
+1105,2023-07-05,blinkkpop,BTS x BLACKPINK collab dream? 😱,484,467,bts x blackpink collab dream,0.0,netral
+1106,2023-03-29,armyblink,NCT comeback soon! Can't wait 😍,166,250,nct comeback soon  can t wait,0.0,netral
+1107,2023-10-20,stayforever,BLACKPINK just dropped a new MV 🔥 #KPOP,757,411,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+1108,2023-09-02,caratdiamond,Twice performance is so powerful #ONCE,127,417,twice performance is so powerful  #once,0.3,positif
+1109,2023-06-19,moaarmy,BTS paved the way #Army,622,353,bts paved the way  #army,0.0,netral
+1110,2023-11-12,buddyfan,BTS paved the way #Army,726,93,bts paved the way  #army,0.0,netral
+1111,2023-06-25,vipfan,Red Velvet vocals are insane 🎶 #ReVeluv,153,127,red velvet vocals are insane    #reveluv,-0.5,negatif
+1112,2023-07-14,armyblink,BTS x BLACKPINK collab dream? 😱,324,215,bts x blackpink collab dream,0.0,netral
+1113,2023-09-03,armylover,GFriend songs always touch my heart 💕,627,328,gfriend songs always touch my heart,0.0,netral
+1114,2023-07-07,armyblink,EXO still kings of KPOP 🔥,846,373,exo still kings of kpop,0.0,netral
+1115,2023-04-06,fearless,BLACKPINK in your area! 💖,584,367,blackpink in your area,0.0,netral
+1116,2023-09-02,armyforever,LOONA legends #Orbit,602,293,loona legends  #orbit,0.0,netral
+1117,2023-02-09,midzy,Seventeen world tour is amazing! #CARAT,269,151,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+1118,2023-05-14,caratdiamond,BTS x BLACKPINK collab dream? 😱,554,454,bts x blackpink collab dream,0.0,netral
+1119,2023-12-02,vipfan,Seventeen world tour is amazing! #CARAT,990,211,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+1120,2023-03-13,neverland,Idle rising so strong #Neverland,969,477,idle rising so strong  #neverland,0.43333333333333335,positif
+1121,2023-12-23,engene,LOONA legends #Orbit,213,257,loona legends  #orbit,0.0,netral
+1122,2023-08-04,blinkqueen,I love BTS so much! KPOP forever 💜,514,125,i love bts so much  kpop forever,0.35,positif
+1123,2023-12-28,oncefan,SHINee forever kings #Shawol,97,279,shinee forever kings  #shawol,0.0,netral
+1124,2023-06-04,armyforever,I love BTS so much! KPOP forever 💜,229,151,i love bts so much  kpop forever,0.35,positif
+1125,2023-10-08,oncefan,LOONA legends #Orbit,534,296,loona legends  #orbit,0.0,netral
+1126,2023-04-20,exolegend,EXO still kings of KPOP 🔥,749,376,exo still kings of kpop,0.0,netral
+1127,2023-01-01,caratdiamond,BIGBANG changed KPOP industry #VIP,121,462,bigbang changed kpop industry  #vip,0.0,netral
+1128,2023-10-31,exolegend,Itzy charisma is no joke #MIDZY,947,116,itzy charisma is no joke  #midzy,0.0,netral
+1129,2023-05-03,armyblink,Twice performance is so powerful #ONCE,927,344,twice performance is so powerful  #once,0.3,positif
+1130,2023-09-23,stayforever,SHINee forever kings #Shawol,71,110,shinee forever kings  #shawol,0.0,netral
+1131,2023-09-08,armylover,GFriend songs always touch my heart 💕,664,309,gfriend songs always touch my heart,0.0,netral
+1132,2023-08-17,armylover,EXO still kings of KPOP 🔥,960,450,exo still kings of kpop,0.0,netral
+1133,2023-02-10,moaarmy,BTS x BLACKPINK collab dream? 😱,623,453,bts x blackpink collab dream,0.0,netral
+1134,2023-07-18,neverland,I love BTS so much! KPOP forever 💜,957,97,i love bts so much  kpop forever,0.35,positif
+1135,2023-10-17,shawol,I love BTS so much! KPOP forever 💜,890,238,i love bts so much  kpop forever,0.35,positif
+1136,2023-12-24,armylover,GFriend songs always touch my heart 💕,271,489,gfriend songs always touch my heart,0.0,netral
+1137,2023-08-08,reveluv,LE SSERAFIM slaying stages #FEARLESS,311,419,le sserafim slaying stages  #fearless,0.0,netral
+1138,2023-04-07,stayforever,BIGBANG changed KPOP industry #VIP,424,118,bigbang changed kpop industry  #vip,0.0,netral
+1139,2023-09-21,blinkkpop,BTS x BLACKPINK collab dream? 😱,939,305,bts x blackpink collab dream,0.0,netral
+1140,2023-03-25,shawol,TXT are the future of KPOP 💙,555,252,txt are the future of kpop,0.0,netral
+1141,2023-04-20,neverland,SHINee forever kings #Shawol,561,442,shinee forever kings  #shawol,0.0,netral
+1142,2023-01-25,armyforever,Itzy charisma is no joke #MIDZY,315,337,itzy charisma is no joke  #midzy,0.0,netral
+1143,2023-06-05,blinkqueen,I love BTS so much! KPOP forever 💜,742,108,i love bts so much  kpop forever,0.35,positif
+1144,2023-07-04,exolegend,Idle rising so strong #Neverland,179,425,idle rising so strong  #neverland,0.43333333333333335,positif
+1145,2023-05-14,blinkqueen,Red Velvet vocals are insane 🎶 #ReVeluv,328,249,red velvet vocals are insane    #reveluv,-0.5,negatif
+1146,2023-11-14,oncefan,LE SSERAFIM slaying stages #FEARLESS,941,295,le sserafim slaying stages  #fearless,0.0,netral
+1147,2023-05-18,armyforever,BTS paved the way #Army,584,351,bts paved the way  #army,0.0,netral
+1148,2023-10-15,moaarmy,Itzy charisma is no joke #MIDZY,854,423,itzy charisma is no joke  #midzy,0.0,netral
+1149,2023-03-10,exolegend,Twice performance is so powerful #ONCE,358,95,twice performance is so powerful  #once,0.3,positif
+1150,2023-01-20,moaarmy,NCT comeback soon! Can't wait 😍,194,108,nct comeback soon  can t wait,0.0,netral
+1151,2023-11-20,oncefan,Twice performance is so powerful #ONCE,399,486,twice performance is so powerful  #once,0.3,positif
+1152,2023-11-19,fearless,EXO still kings of KPOP 🔥,742,223,exo still kings of kpop,0.0,netral
+1153,2023-08-15,armyblink,Stray Kids are dominating the stage! #STAY,655,256,stray kids are dominating the stage   #stay,0.0,netral
+1154,2023-02-09,armyforever,LE SSERAFIM slaying stages #FEARLESS,100,188,le sserafim slaying stages  #fearless,0.0,netral
+1155,2023-11-19,nctzenlife,NCT comeback soon! Can't wait 😍,98,388,nct comeback soon  can t wait,0.0,netral
+1156,2023-07-13,vipfan,Twice performance is so powerful #ONCE,260,469,twice performance is so powerful  #once,0.3,positif
+1157,2023-12-01,shawol,TXT are the future of KPOP 💙,542,246,txt are the future of kpop,0.0,netral
+1158,2023-12-06,nctzenlife,BTS x BLACKPINK collab dream? 😱,912,341,bts x blackpink collab dream,0.0,netral
+1159,2023-11-29,exolegend,SHINee forever kings #Shawol,349,74,shinee forever kings  #shawol,0.0,netral
+1160,2023-12-01,oncefan,I love BTS so much! KPOP forever 💜,173,420,i love bts so much  kpop forever,0.35,positif
+1161,2023-08-22,moaarmy,LE SSERAFIM slaying stages #FEARLESS,631,458,le sserafim slaying stages  #fearless,0.0,netral
+1162,2023-10-09,fearless,I love BTS so much! KPOP forever 💜,368,366,i love bts so much  kpop forever,0.35,positif
+1163,2023-02-04,neverland,BTS x BLACKPINK collab dream? 😱,345,349,bts x blackpink collab dream,0.0,netral
+1164,2023-11-30,exolegend,NCT comeback soon! Can't wait 😍,419,274,nct comeback soon  can t wait,0.0,netral
+1165,2023-01-14,oncefan,BLACKPINK in your area! 💖,313,60,blackpink in your area,0.0,netral
+1166,2023-04-21,midzy,Seventeen world tour is amazing! #CARAT,137,110,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+1167,2023-01-07,exolegend,GFriend songs always touch my heart 💕,526,395,gfriend songs always touch my heart,0.0,netral
+1168,2023-06-09,moaarmy,LOONA legends #Orbit,469,49,loona legends  #orbit,0.0,netral
+1169,2023-04-16,armylover,BTS x BLACKPINK collab dream? 😱,350,308,bts x blackpink collab dream,0.0,netral
+1170,2023-02-16,vipfan,Itzy charisma is no joke #MIDZY,621,482,itzy charisma is no joke  #midzy,0.0,netral
+1171,2023-03-20,blinkkpop,Itzy charisma is no joke #MIDZY,625,392,itzy charisma is no joke  #midzy,0.0,netral
+1172,2023-01-01,shawol,Idle rising so strong #Neverland,836,308,idle rising so strong  #neverland,0.43333333333333335,positif
+1173,2023-12-17,reveluv,Red Velvet vocals are insane 🎶 #ReVeluv,624,276,red velvet vocals are insane    #reveluv,-0.5,negatif
+1174,2023-01-25,nctzenlife,Twice performance is so powerful #ONCE,302,433,twice performance is so powerful  #once,0.3,positif
+1175,2023-10-08,armyblink,LOONA legends #Orbit,638,399,loona legends  #orbit,0.0,netral
+1176,2023-12-23,armyblink,BLACKPINK in your area! 💖,585,104,blackpink in your area,0.0,netral
+1177,2023-10-30,fearless,Twice performance is so powerful #ONCE,311,375,twice performance is so powerful  #once,0.3,positif
+1178,2023-12-19,nctzenlife,NCT comeback soon! Can't wait 😍,890,15,nct comeback soon  can t wait,0.0,netral
+1179,2023-07-17,reveluv,SHINee forever kings #Shawol,107,392,shinee forever kings  #shawol,0.0,netral
+1180,2023-12-18,armylover,I love BTS so much! KPOP forever 💜,899,124,i love bts so much  kpop forever,0.35,positif
+1181,2023-02-11,orbitluv,GFriend songs always touch my heart 💕,705,18,gfriend songs always touch my heart,0.0,netral
+1182,2023-02-03,neverland,Itzy charisma is no joke #MIDZY,501,93,itzy charisma is no joke  #midzy,0.0,netral
+1183,2023-02-02,blinkqueen,BIGBANG changed KPOP industry #VIP,61,428,bigbang changed kpop industry  #vip,0.0,netral
+1184,2023-10-22,shawol,Seventeen world tour is amazing! #CARAT,555,153,seventeen world tour is amazing   #carat,0.6000000000000001,positif
+1185,2023-04-19,moaarmy,TXT are the future of KPOP 💙,653,227,txt are the future of kpop,0.0,netral
+1186,2023-07-10,caratdiamond,EXO still kings of KPOP 🔥,795,182,exo still kings of kpop,0.0,netral
+1187,2023-10-01,fearless,TXT are the future of KPOP 💙,509,391,txt are the future of kpop,0.0,netral
+1188,2023-10-14,midzy,Stray Kids are dominating the stage! #STAY,709,68,stray kids are dominating the stage   #stay,0.0,netral
+1189,2023-08-13,fearless,BTS paved the way #Army,607,267,bts paved the way  #army,0.0,netral
+1190,2023-06-09,armyforever,BLACKPINK just dropped a new MV 🔥 #KPOP,441,335,blackpink just dropped a new mv    #kpop,0.13636363636363635,positif
+1191,2023-07-02,exolegend,Twice performance is so powerful #ONCE,256,250,twice performance is so powerful  #once,0.3,positif
+1192,2023-07-31,fearless,LOONA legends #Orbit,947,71,loona legends  #orbit,0.0,netral
+1193,2023-03-12,blinkkpop,EXO still kings of KPOP 🔥,76,427,exo still kings of kpop,0.0,netral
+1194,2023-06-01,oncefan,Twice performance is so powerful #ONCE,671,497,twice performance is so powerful  #once,0.3,positif
+1195,2023-05-13,orbitluv,BTS paved the way #Army,257,83,bts paved the way  #army,0.0,netral
+1196,2023-10-23,armyforever,NCT comeback soon! Can't wait 😍,346,50,nct comeback soon  can t wait,0.0,netral
+1197,2023-09-19,fearless,BTS x BLACKPINK collab dream? 😱,125,399,bts x blackpink collab dream,0.0,netral
+1198,2023-05-15,shawol,SHINee forever kings #Shawol,369,280,shinee forever kings  #shawol,0.0,netral
+1199,2023-08-31,neverland,GFriend songs always touch my heart 💕,510,181,gfriend songs always touch my heart,0.0,netral
+1200,2023-02-16,fearless,BTS x BLACKPINK collab dream? 😱,69,53,bts x blackpink collab dream,0.0,netral
